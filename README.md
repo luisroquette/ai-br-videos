@@ -23,3 +23,4 @@ Quer o acesso de alguma? Comenta **"EU QUERO"** no post correspondente do Instag
 | [pgrundev/pgbot](tools/pgrundev-pgbot.md) | pgbot: IA diagnóstica para bancos de dados | 2026-08-25 |
 | [Jalapeño](tools/jalapeno.md) | Um novo hardware otimizado para IA | 2026-08-25 |
 | [A IA ROBÔ QUE APRENDE A FAZER PANQUECAS SÓ DE ASSISTIR UM VÍDEO](tools/a-ia-robo-que-aprende-a-fazer-panquecas-so-de-assistir-um-video.md) | Robôs adquirem novas habilidades por imitação | 2026-08-25 |
+| [Claude Code](tools/claude-code.md) | Atualização do Claude Code 2.1.245. | 2026-08-25 |
