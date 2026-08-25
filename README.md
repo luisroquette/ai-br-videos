@@ -7,3 +7,4 @@ Quer o acesso de alguma? Comenta **"EU QUERO"** no post correspondente do Instag
 | Ferramenta | O que é | Data |
 |---|---|---|
 | [Grok](tools/grok.md) | Atendimento automatizado com paciência | 2026-08-25 |
+| [Nothing OS 5.0](tools/nothing-os-5-0.md) | Sistema operacional com IA para celular | 2026-08-25 |
