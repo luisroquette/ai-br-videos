@@ -11,3 +11,4 @@ Quer o acesso de alguma? Comenta **"EU QUERO"** no post correspondente do Instag
 | [A EMPRESA QUE ABRE O MERCADO DA ANTHROPIC PARA TODOS](tools/a-empresa-que-abre-o-mercado-da-anthropic-para-todos.md) | Mercado financeiro para inteligência artificial | 2026-08-25 |
 | [CLAUDE AGORA TEM CENTENAS DE FERRAMENTAS GRÁTIS PARA VENDAS E CÓDIGO](tools/claude-agora-tem-centenas-de-ferramentas-gratis-para-vendas-e-codigo.md) | Um catálogo expande as habilidades da IA | 2026-08-25 |
 | [Ghostty](tools/ghostty.md) | Protocolo para dados não textuais em apps | 2026-08-25 |
+| [ESTA EMPRESA ESTA ENTRE AS TOP 100 DE IA E DADOS NOS EUA](tools/esta-empresa-esta-entre-as-top-100-de-ia-e-dados-nos-eua.md) | O impacto da infraestrutura de IA | 2026-08-25 |
