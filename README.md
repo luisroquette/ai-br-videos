@@ -6,3 +6,4 @@ Quer o acesso de alguma? Comenta **"EU QUERO"** no post correspondente do Instag
 
 | Ferramenta | O que é | Data |
 |---|---|---|
+| [Grok](tools/grok.md) | Atendimento automatizado com paciência | 2026-08-25 |
