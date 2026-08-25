@@ -15,3 +15,4 @@ Quer o acesso de alguma? Comenta **"EU QUERO"** no post correspondente do Instag
 | [CLAUDE FACILITA CONEXAO DE FERRAMENTAS PARA EMPRESAS COM NOVA AUTENTICACAO](tools/claude-facilita-conexao-de-ferramentas-para-empresas-com-nova-autenticacao.md) | Centraliza o acesso de IAs corporativas | 2026-08-25 |
 | [null](tools/null.md) | O novo modelo de linguagem da Anthropic | 2026-08-25 |
 | [DESENVOLVEDORES ESTÃO RODANDO CLAUDE DE GRAÇA, PARA SEMPRE, COM ESTE REPO](tools/desenvolvedores-estao-rodando-claude-de-graca-para-sempre-com-este-repo.md) | Um truque redireciona o código da IA | 2026-08-25 |
+| [FERRAMENTA DE IA GRATUITA ACABA COM INDUSTRIA DE CORTE DE VÍDEO DE US$49/MÊS](tools/ferramenta-de-ia-gratuita-acaba-com-industria-de-corte-de-video-de-us-49-mes.md) | Edição de vídeo com IA, código aberto | 2026-08-25 |
