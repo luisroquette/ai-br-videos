@@ -19,3 +19,4 @@ Quer o acesso de alguma? Comenta **"EU QUERO"** no post correspondente do Instag
 | [Flova](tools/flova.md) | Edição de vídeo com agentes de IA | 2026-08-25 |
 | [MORADORES ACUSAM META POR ÁGUA SUJA E POÇOS SECOS APÓS DATACENTER DE US$1 BI](tools/moradores-acusam-meta-por-agua-suja-e-pocos-secos-apos-datacenter-de-us-1-bi.md) | O impacto ambiental de grandes IAs | 2026-08-25 |
 | [DAVID SACKS DIZ QUE VÃO PROIBIR A IA DE CÓDIGO ABERTO COM ESTE PLANO SECRETO](tools/david-sacks-diz-que-vao-proibir-a-ia-de-codigo-aberto-com-este-plano-secreto.md) | A estratégia para eliminar modelos abertos | 2026-08-25 |
+| [/fuck-cancer](tools/fuck-cancer.md) | Uma ferramenta open-source para pacientes e cuidadores. | 2026-08-25 |
