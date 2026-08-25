@@ -13,3 +13,4 @@ Quer o acesso de alguma? Comenta **"EU QUERO"** no post correspondente do Instag
 | [Ghostty](tools/ghostty.md) | Protocolo para dados não textuais em apps | 2026-08-25 |
 | [ESTA EMPRESA ESTA ENTRE AS TOP 100 DE IA E DADOS NOS EUA](tools/esta-empresa-esta-entre-as-top-100-de-ia-e-dados-nos-eua.md) | O impacto da infraestrutura de IA | 2026-08-25 |
 | [CLAUDE FACILITA CONEXAO DE FERRAMENTAS PARA EMPRESAS COM NOVA AUTENTICACAO](tools/claude-facilita-conexao-de-ferramentas-para-empresas-com-nova-autenticacao.md) | Centraliza o acesso de IAs corporativas | 2026-08-25 |
+| [null](tools/null.md) | O novo modelo de linguagem da Anthropic | 2026-08-25 |
