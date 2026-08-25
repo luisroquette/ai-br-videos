@@ -21,3 +21,4 @@ Quer o acesso de alguma? Comenta **"EU QUERO"** no post correspondente do Instag
 | [DAVID SACKS DIZ QUE VÃO PROIBIR A IA DE CÓDIGO ABERTO COM ESTE PLANO SECRETO](tools/david-sacks-diz-que-vao-proibir-a-ia-de-codigo-aberto-com-este-plano-secreto.md) | A estratégia para eliminar modelos abertos | 2026-08-25 |
 | [/fuck-cancer](tools/fuck-cancer.md) | Uma ferramenta open-source para pacientes e cuidadores. | 2026-08-25 |
 | [pgrundev/pgbot](tools/pgrundev-pgbot.md) | pgbot: IA diagnóstica para bancos de dados | 2026-08-25 |
+| [Jalapeño](tools/jalapeno.md) | Um novo hardware otimizado para IA | 2026-08-25 |
