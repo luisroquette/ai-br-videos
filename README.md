@@ -16,3 +16,4 @@ Quer o acesso de alguma? Comenta **"EU QUERO"** no post correspondente do Instag
 | [null](tools/null.md) | O novo modelo de linguagem da Anthropic | 2026-08-25 |
 | [DESENVOLVEDORES ESTÃO RODANDO CLAUDE DE GRAÇA, PARA SEMPRE, COM ESTE REPO](tools/desenvolvedores-estao-rodando-claude-de-graca-para-sempre-com-este-repo.md) | Um truque redireciona o código da IA | 2026-08-25 |
 | [FERRAMENTA DE IA GRATUITA ACABA COM INDUSTRIA DE CORTE DE VÍDEO DE US$49/MÊS](tools/ferramenta-de-ia-gratuita-acaba-com-industria-de-corte-de-video-de-us-49-mes.md) | Edição de vídeo com IA, código aberto | 2026-08-25 |
+| [Flova](tools/flova.md) | Edição de vídeo com agentes de IA | 2026-08-25 |
