@@ -18,3 +18,4 @@ Quer o acesso de alguma? Comenta **"EU QUERO"** no post correspondente do Instag
 | [FERRAMENTA DE IA GRATUITA ACABA COM INDUSTRIA DE CORTE DE VÍDEO DE US$49/MÊS](tools/ferramenta-de-ia-gratuita-acaba-com-industria-de-corte-de-video-de-us-49-mes.md) | Edição de vídeo com IA, código aberto | 2026-08-25 |
 | [Flova](tools/flova.md) | Edição de vídeo com agentes de IA | 2026-08-25 |
 | [MORADORES ACUSAM META POR ÁGUA SUJA E POÇOS SECOS APÓS DATACENTER DE US$1 BI](tools/moradores-acusam-meta-por-agua-suja-e-pocos-secos-apos-datacenter-de-us-1-bi.md) | O impacto ambiental de grandes IAs | 2026-08-25 |
+| [DAVID SACKS DIZ QUE VÃO PROIBIR A IA DE CÓDIGO ABERTO COM ESTE PLANO SECRETO](tools/david-sacks-diz-que-vao-proibir-a-ia-de-codigo-aberto-com-este-plano-secreto.md) | A estratégia para eliminar modelos abertos | 2026-08-25 |
