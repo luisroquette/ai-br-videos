@@ -41,3 +41,4 @@ Quer o acesso de alguma? Comenta **"EU QUERO"** no post correspondente do Instag
 | [META PAGA UMA MULTA HISTÓRICA DE QUASE R$ 85 BILHÕES POR PREJUDICAR CRIANÇAS](tools/meta-paga-uma-multa-historica-de-quase-r-85-bilhoes-por-prejudicar-criancas.md) | O impacto do design de redes sociais | 2026-08-26 |
 | [Gemini 3.5 Transcribe](tools/gemini-3-5-transcribe.md) | IA de transcrição da Google | 2026-08-26 |
 | [Claude Code](tools/claude-code-20260826.md) | Agentes de IA autônomos para mais controle | 2026-08-26 |
+| [COMO CONSTRUIR SEU PRIMEIRO SITE DE IA SEM GASTAR 500 EUROS EM CURSOS RUINS](tools/como-construir-seu-primeiro-site-de-ia-sem-gastar-500-euros-em-cursos-ruins.md) | Aprenda a criar sites com inteligência artificial | 2026-08-26 |
