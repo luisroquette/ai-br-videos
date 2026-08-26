@@ -34,3 +34,4 @@ Quer o acesso de alguma? Comenta **"EU QUERO"** no post correspondente do Instag
 | [claude code workflow](tools/claude-code-workflow.md) | Workflow completo de IA para código. | 2026-08-26 |
 | [AS 30 IAs QUE VOCÊ PRECISA CONHECER PARA FICAR NA FRENTE EM 2026](tools/as-30-ias-que-voce-precisa-conhecer-para-ficar-na-frente-em-2026.md) | As ferramentas essenciais de IA agora | 2026-08-26 |
 | [Wan 3.0](tools/wan-3-0.md) | Edição de vídeo com IA de ponta | 2026-08-26 |
+| [COMO A IA VAI TRANSFORMOU MEMES DE INTERNET EM FILMES DE HOLLYWOOD](tools/como-a-ia-vai-transformou-memes-de-internet-em-filmes-de-hollywood.md) | Criando narrativas a partir da cultura digital | 2026-08-26 |
