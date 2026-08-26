@@ -30,3 +30,4 @@ Quer o acesso de alguma? Comenta **"EU QUERO"** no post correspondente do Instag
 | [Chartbuddy](tools/chartbuddy.md) | Edite gráficos feitos por IA no desktop | 2026-08-26 |
 | [Archify](tools/archify.md) | Uma IA que visualiza seu código | 2026-08-26 |
 | [null](tools/null-20260826.md) | IA para otimizar o desenvolvimento | 2026-08-26 |
+| [Glean Tau](tools/glean-tau.md) | Um sistema operacional com agentes autônomos | 2026-08-26 |
