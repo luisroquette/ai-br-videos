@@ -25,3 +25,4 @@ Quer o acesso de alguma? Comenta **"EU QUERO"** no post correspondente do Instag
 | [A IA ROBÔ QUE APRENDE A FAZER PANQUECAS SÓ DE ASSISTIR UM VÍDEO](tools/a-ia-robo-que-aprende-a-fazer-panquecas-so-de-assistir-um-video.md) | Robôs adquirem novas habilidades por imitação | 2026-08-25 |
 | [Claude Code](tools/claude-code.md) | Atualização do Claude Code 2.1.245. | 2026-08-25 |
 | [null](tools/null-20260825.md) | IA projeta e testa medicamentos sozinha | 2026-08-25 |
+| [ESTA IA ROBÓTICA APRENDE TAREFAS DE 10 MINUTOS COM APENAS UM VÍDEO](tools/esta-ia-robotica-aprende-tarefas-de-10-minutos-com-apenas-um-video.md) | Um novo modelo de robótica geral | 2026-08-26 |
