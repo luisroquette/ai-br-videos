@@ -32,3 +32,4 @@ Quer o acesso de alguma? Comenta **"EU QUERO"** no post correspondente do Instag
 | [null](tools/null-20260826.md) | IA para otimizar o desenvolvimento | 2026-08-26 |
 | [Glean Tau](tools/glean-tau.md) | Um sistema operacional com agentes autônomos | 2026-08-26 |
 | [claude code workflow](tools/claude-code-workflow.md) | Workflow completo de IA para código. | 2026-08-26 |
+| [AS 30 IAs QUE VOCÊ PRECISA CONHECER PARA FICAR NA FRENTE EM 2026](tools/as-30-ias-que-voce-precisa-conhecer-para-ficar-na-frente-em-2026.md) | As ferramentas essenciais de IA agora | 2026-08-26 |
