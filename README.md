@@ -37,3 +37,4 @@ Quer o acesso de alguma? Comenta **"EU QUERO"** no post correspondente do Instag
 | [COMO A IA VAI TRANSFORMOU MEMES DE INTERNET EM FILMES DE HOLLYWOOD](tools/como-a-ia-vai-transformou-memes-de-internet-em-filmes-de-hollywood.md) | Criando narrativas a partir da cultura digital | 2026-08-26 |
 | [Grok 4.6](tools/grok-4-6.md) | A IA do Elon Musk é a nova líder | 2026-08-26 |
 | [IA AGORA TRANSFORMA MEMES EM FILMES DE HOLLYWOOD](tools/ia-agora-transforma-memes-em-filmes-de-hollywood.md) | Como IAs criam enredos a partir de memes | 2026-08-26 |
+| [APÓS 15 ANOS DE TRABALHO, AMERICANO FICA SEM-TETO EM APENAS 2 SEMANAS](tools/apos-15-anos-de-trabalho-americano-fica-sem-teto-em-apenas-2-semanas.md) | Crise de custo de vida e economia | 2026-08-26 |
