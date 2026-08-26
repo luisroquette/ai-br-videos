@@ -40,3 +40,4 @@ Quer o acesso de alguma? Comenta **"EU QUERO"** no post correspondente do Instag
 | [APÓS 15 ANOS DE TRABALHO, AMERICANO FICA SEM-TETO EM APENAS 2 SEMANAS](tools/apos-15-anos-de-trabalho-americano-fica-sem-teto-em-apenas-2-semanas.md) | Crise de custo de vida e economia | 2026-08-26 |
 | [META PAGA UMA MULTA HISTÓRICA DE QUASE R$ 85 BILHÕES POR PREJUDICAR CRIANÇAS](tools/meta-paga-uma-multa-historica-de-quase-r-85-bilhoes-por-prejudicar-criancas.md) | O impacto do design de redes sociais | 2026-08-26 |
 | [Gemini 3.5 Transcribe](tools/gemini-3-5-transcribe.md) | IA de transcrição da Google | 2026-08-26 |
+| [Claude Code](tools/claude-code-20260826.md) | Agentes de IA autônomos para mais controle | 2026-08-26 |
