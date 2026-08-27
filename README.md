@@ -55,3 +55,4 @@ Quer o acesso de alguma? Comenta **"EU QUERO"** no post correspondente do Instag
 | [A META PAGA 16 BILHÕES POR DANOS À SAÚDE MENTAL DE ADOLESCENTES](tools/a-meta-paga-16-bilhoes-por-danos-a-saude-mental-de-adolescentes.md) | As redes sociais foram consideradas as culpadas | 2026-08-27 |
 | [Cowork](tools/cowork.md) | A ferramenta de IA da Anthropic fica autônoma | 2026-08-27 |
 | [Claude](tools/claude.md) | Agentes de IA automatizam tarefas de marketing | 2026-08-27 |
+| [Claude Opus 5](tools/claude-opus-5-20260827.md) | A IA que entende animações complexas. | 2026-08-27 |
