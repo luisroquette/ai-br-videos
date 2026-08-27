@@ -44,3 +44,4 @@ Quer o acesso de alguma? Comenta **"EU QUERO"** no post correspondente do Instag
 | [COMO CONSTRUIR SEU PRIMEIRO SITE DE IA SEM GASTAR 500 EUROS EM CURSOS RUINS](tools/como-construir-seu-primeiro-site-de-ia-sem-gastar-500-euros-em-cursos-ruins.md) | Aprenda a criar sites com inteligência artificial | 2026-08-26 |
 | [Cloud Code](tools/cloud-code.md) | Agentes autônomos de IA no seu laptop | 2026-08-27 |
 | [Claude Opus 5](tools/claude-opus-5.md) | IA entende e replica estruturas de código visual | 2026-08-27 |
+| [Grok Bot](tools/grok-bot.md) | Um hub para suas IAs programadoras | 2026-08-27 |
