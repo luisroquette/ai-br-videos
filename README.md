@@ -49,3 +49,4 @@ Quer o acesso de alguma? Comenta **"EU QUERO"** no post correspondente do Instag
 | [Graft](tools/graft.md) | Uma ferramenta que detecta falhas no código. | 2026-08-27 |
 | [null](tools/null-20260827.md) | IA da Anthropic entende lógica visual | 2026-08-27 |
 | [Cloud Code](tools/cloud-code-20260827.md) | Um modelo de linguagem rodando no seu Android. | 2026-08-27 |
+| [Grok Bot](tools/grok-bot-20260827.md) | Conectando modelos de IA ao chatbot do X | 2026-08-27 |
