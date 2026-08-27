@@ -1,17 +1,18 @@
 # Claude Opus 5
 
-O Claude Opus 5 assiste a uma animação e, sem acesso ao código-fonte, identifica que os elementos visuais são pontos posicionados matematicamente em p5.js. Ele então recria a animação do zero — e ainda entrega uma versão própria, no caso, uma lula.
+Claude Opus 5 assistiu a uma animação e, em vez de só descrever o que via, inferiu que se tratava de pontos posicionados matematicamente em p5.js. Na sequência, recriou a cena com uma variação própria: uma versão lula.
+
+O que impressiona não é a reprodução, mas o caminho inverso. A IA partiu do visual para o código, identificou a técnica subjacente (posicionamento matemático de pontos) e aplicou isso num contexto novo. Isso é diferente de copiar sintaxe — é entender o padrão.
 
 ## Por que importa
 
-Isso não é reconhecimento de imagem comum. A IA não descreveu o que viu; ela inferiu a estrutura lógica por trás do visual. Isso significa que o modelo está traduzindo pixels em conceitos abstratos (posição, movimento, matemática) e depois materializando esses conceitos em código funcional. Para quem trabalha com front-end, creative coding ou prototipagem rápida, isso encurta o caminho entre "vi algo interessante" e "tenho um ponto de partida implementável". Não é automação de design, é uma camada a mais de interpretação que você pode usar como rascunho.
+Para quem trabalha com creative coding, isso muda o fluxo de prototipagem. Em vez de descrever o que quer em texto, você pode mostrar uma referência visual e pedir uma variação. O modelo não só replica o efeito, mas demonstra que captou a lógica estrutural por trás do render.
+
+O detalhe do "squid version" é o ponto: não é uma cópia. É uma adaptação com base no entendimento do mecanismo.
 
 ## Como começar
 
-- Cole um GIF ou vídeo curto de uma animação no prompt do Claude Opus 5.
-- Peça para ele descrever a estrutura matemática e o provável framework (p5.js, Three.js, etc.).
-- Solicite o código completo e, depois, uma variação sua (troque cores, formas, comportamento).
-- Use o resultado como base — revise e adapte ao seu contexto antes de subir para produção.
+Se você usa p5.js, o caminho prático é simples: gere uma animação curta, exporte o vídeo ou GIF e peça ao Claude para recriar algo similar com uma variação — mude o número de pontos, a trajetória ou o estilo. O retorno tende a ser código executável, pronto para ajuste fino.
 
 ---
 
