@@ -52,3 +52,4 @@ Quer o acesso de alguma? Comenta **"EU QUERO"** no post correspondente do Instag
 | [Grok Bot](tools/grok-bot-20260827.md) | Conectando modelos de IA ao chatbot do X | 2026-08-27 |
 | [Imagine Art](tools/imagine-art.md) | O aplicativo de IA que está cortando custos. | 2026-08-27 |
 | [Claude Opus 5](tools/claude-opus-5-20260827.md) | A IA que entende e reproduz código. | 2026-08-27 |
+| [A META PAGA 16 BILHÕES POR DANOS À SAÚDE MENTAL DE ADOLESCENTES](tools/a-meta-paga-16-bilhoes-por-danos-a-saude-mental-de-adolescentes.md) | As redes sociais foram consideradas as culpadas | 2026-08-27 |
