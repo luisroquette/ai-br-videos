@@ -58,3 +58,4 @@ Quer o acesso de alguma? Comenta **"EU QUERO"** no post correspondente do Instag
 | [Claude Opus 5](tools/claude-opus-5-20260827.md) | A IA que entende animações complexas. | 2026-08-27 |
 | [Storm](tools/storm.md) | Um assistente de pesquisa com citações | 2026-08-27 |
 | [Claude Opus 5](tools/claude-opus-5-20260827.md) | Claude Opus 5 agora gera código visual | 2026-08-27 |
+| [GitNexus](tools/gitnexus.md) | Uma IA que lê e mapeia seu repositório | 2026-08-27 |
