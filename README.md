@@ -42,3 +42,4 @@ Quer o acesso de alguma? Comenta **"EU QUERO"** no post correspondente do Instag
 | [Gemini 3.5 Transcribe](tools/gemini-3-5-transcribe.md) | IA de transcrição da Google | 2026-08-26 |
 | [Claude Code](tools/claude-code-20260826.md) | Agentes de IA autônomos para mais controle | 2026-08-26 |
 | [COMO CONSTRUIR SEU PRIMEIRO SITE DE IA SEM GASTAR 500 EUROS EM CURSOS RUINS](tools/como-construir-seu-primeiro-site-de-ia-sem-gastar-500-euros-em-cursos-ruins.md) | Aprenda a criar sites com inteligência artificial | 2026-08-26 |
+| [Cloud Code](tools/cloud-code.md) | Agentes autônomos de IA no seu laptop | 2026-08-27 |
