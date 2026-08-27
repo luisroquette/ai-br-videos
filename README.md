@@ -61,3 +61,4 @@ Quer o acesso de alguma? Comenta **"EU QUERO"** no post correspondente do Instag
 | [GitNexus](tools/gitnexus.md) | Uma IA que lê e mapeia seu repositório | 2026-08-27 |
 | [Claude Code](tools/claude-code-20260827.md) | Use IA para organizar seu conhecimento e gerar renda | 2026-08-27 |
 | [GOOGLE TRANSFORMA E-BOOKS DO PLAY EM FONTES DE CONHECIMENTO PARA SUA IA](tools/google-transforma-e-books-do-play-em-fontes-de-conhecimento-para-sua-ia.md) | INTEGRE SEUS LIVROS FAVORITOS NO GEMINI | 2026-08-27 |
+| [null](tools/null-20260827.md) | INTEGRAÇÃO PARA IAs DE CHAT EM TODO LUGAR | 2026-08-27 |
