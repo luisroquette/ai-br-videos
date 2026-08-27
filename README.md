@@ -46,3 +46,4 @@ Quer o acesso de alguma? Comenta **"EU QUERO"** no post correspondente do Instag
 | [Claude Opus 5](tools/claude-opus-5.md) | IA entende e replica estruturas de código visual | 2026-08-27 |
 | [Grok Bot](tools/grok-bot.md) | Um hub para suas IAs programadoras | 2026-08-27 |
 | [Claude Opus 5](tools/claude-opus-5-20260827.md) | É assim que a IA entende o mundo visual | 2026-08-27 |
+| [Graft](tools/graft.md) | Uma ferramenta que detecta falhas no código. | 2026-08-27 |
