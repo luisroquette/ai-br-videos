@@ -51,3 +51,4 @@ Quer o acesso de alguma? Comenta **"EU QUERO"** no post correspondente do Instag
 | [Cloud Code](tools/cloud-code-20260827.md) | Um modelo de linguagem rodando no seu Android. | 2026-08-27 |
 | [Grok Bot](tools/grok-bot-20260827.md) | Conectando modelos de IA ao chatbot do X | 2026-08-27 |
 | [Imagine Art](tools/imagine-art.md) | O aplicativo de IA que está cortando custos. | 2026-08-27 |
+| [Claude Opus 5](tools/claude-opus-5-20260827.md) | A IA que entende e reproduz código. | 2026-08-27 |
