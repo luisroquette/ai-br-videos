@@ -71,3 +71,4 @@ Quer o acesso de alguma? Comenta **"EU QUERO"** no post correspondente do Instag
 | [Gemini Omni 1.1 Flash](tools/gemini-omni-1-1-flash.md) | Novo modelo da Google DeepMind | 2026-08-28 |
 | [GMI Router](tools/gmi-router.md) | O roteador de IA que otimiza custos | 2026-08-28 |
 | [glif agent](tools/glif-agent.md) | Gerador de vídeos com transições fluidas | 2026-08-28 |
+| [Grok Bot](tools/grok-bot-20260828.md) | Crie, salve e compartilhe configurações de IA. | 2026-08-28 |
