@@ -63,3 +63,4 @@ Quer o acesso de alguma? Comenta **"EU QUERO"** no post correspondente do Instag
 | [GOOGLE TRANSFORMA E-BOOKS DO PLAY EM FONTES DE CONHECIMENTO PARA SUA IA](tools/google-transforma-e-books-do-play-em-fontes-de-conhecimento-para-sua-ia.md) | INTEGRE SEUS LIVROS FAVORITOS NO GEMINI | 2026-08-27 |
 | [null](tools/null-20260827.md) | INTEGRAÇÃO PARA IAs DE CHAT EM TODO LUGAR | 2026-08-27 |
 | [Claude Team](tools/claude-team.md) | IA da Anthropic para pesquisa científica | 2026-08-27 |
+| [GROK BOT](tools/grok-bot-20260828.md) | Um workflow unificado para sua programação com IA | 2026-08-28 |
