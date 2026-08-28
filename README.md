@@ -69,3 +69,4 @@ Quer o acesso de alguma? Comenta **"EU QUERO"** no post correspondente do Instag
 | [A ANTHROPIC PROIBIU OS EUA DE USAR IA PARA DEFESA DE MÍSSEIS?](tools/a-anthropic-proibiu-os-eua-de-usar-ia-para-defesa-de-misseis.md) | A IA da Anthropic e suas restrições de uso | 2026-08-28 |
 | [Grok Bots](tools/grok-bots.md) | Robôs plug-and-play para o Grok | 2026-08-28 |
 | [Gemini Omni 1.1 Flash](tools/gemini-omni-1-1-flash.md) | Novo modelo da Google DeepMind | 2026-08-28 |
+| [GMI Router](tools/gmi-router.md) | O roteador de IA que otimiza custos | 2026-08-28 |
