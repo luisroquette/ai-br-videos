@@ -66,3 +66,4 @@ Quer o acesso de alguma? Comenta **"EU QUERO"** no post correspondente do Instag
 | [GROK BOT](tools/grok-bot-20260828.md) | Um workflow unificado para sua programação com IA | 2026-08-28 |
 | [Claude Code](tools/claude-code-20260828.md) | A ferramenta de desenvolvimento da Anthropic | 2026-08-28 |
 | [Model Hardware Standard](tools/model-hardware-standard.md) | Conectando modelos de IA a equipamentos físicos | 2026-08-28 |
+| [A ANTHROPIC PROIBIU OS EUA DE USAR IA PARA DEFESA DE MÍSSEIS?](tools/a-anthropic-proibiu-os-eua-de-usar-ia-para-defesa-de-misseis.md) | A IA da Anthropic e suas restrições de uso | 2026-08-28 |
