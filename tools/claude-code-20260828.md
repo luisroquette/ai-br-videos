@@ -1,13 +1,19 @@
 # Claude Code
 
-Claude Code é um CLI da Anthropic para desenvolvimento assistido. Essa versão 2.1.248 traz 49 mudanças na linha de comando. O destaque é a flag `--restricted`: ela remove ferramentas de execução de código/comandos e bloqueia WebFetch (a menos que explicitamente incluída em `--tools`). Também habilita `SendMessage` e `ListAgents` em Bedrock, Vertex e Foundry com telemetria desligada, permitindo comunicação entre agentes na mesma máquina. Além disso, corrige um bug no prompt-cache que descartava o contexto de pensamento estendido a cada hora, o que quebrava sessões longas.
+O Claude Code agora permite resumir sessões do terminal no aplicativo desktop. Basta digitar `/resume` para escolher qualquer sessão iniciada via CLI. A conversa e o contexto são transferidos intactos para o app — sem perder histórico, estado ou variáveis.
 
 ## Por que importa
 
-`--restricted` dá um controle fino sobre o que o agente pode executar no terminal — útil para ambientes que exigem isolamento ou revisão manual antes de rodar comandos. A correção do cache de prompt resolve um problema real em sessões de debugging ou refatoração longas, onde o modelo perdia o fio da meada a cada hora. Quem usa Claude Code em esteiras ou com modelos hospedados (Bedrock, Vertex) ganha interoperabilidade básica sem enviar telemetria.
+Quem trabalha com terminal e alterna entre CLI e interface gráfica ganha continuidade real. Não precisa reiniciar prompts, reexplicar contexto ou recarregar arquivos. Uma sessão longa de debugging ou refatoração pode começar no terminal e continuar no desktop sem quebras.
+
+## Como começar
+
+1. Inicie uma sessão no Claude Code pelo terminal normalmente.
+2. No desktop app, digite `/resume` e selecione a sessão desejada.
+3. A sessão carrega com todo o histórico e contexto preservados.
 
 ---
 
-**Fonte original:** https://x.com/ClaudeCodeLog/status/2093104161684369626
+**Fonte original:** https://x.com/ClaudeDevs/status/2093368017304371503
 
 **Veja o vídeo:** [@ai_br_videos no Instagram](https://instagram.com/ai_br_videos)
