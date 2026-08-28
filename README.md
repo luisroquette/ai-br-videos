@@ -73,3 +73,4 @@ Quer o acesso de alguma? Comenta **"EU QUERO"** no post correspondente do Instag
 | [glif agent](tools/glif-agent.md) | Gerador de vídeos com transições fluidas | 2026-08-28 |
 | [Grok Bot](tools/grok-bot-20260828.md) | Crie, salve e compartilhe configurações de IA. | 2026-08-28 |
 | [Claude Code](tools/claude-code-20260828.md) | Claude Code Desktop App: nova feature | 2026-08-28 |
+| [H3 Max](tools/h3-max.md) | H3 Max gera videos de IA instantaneamente | 2026-08-28 |
