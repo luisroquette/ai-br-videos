@@ -65,3 +65,4 @@ Quer o acesso de alguma? Comenta **"EU QUERO"** no post correspondente do Instag
 | [Claude Team](tools/claude-team.md) | IA da Anthropic para pesquisa científica | 2026-08-27 |
 | [GROK BOT](tools/grok-bot-20260828.md) | Um workflow unificado para sua programação com IA | 2026-08-28 |
 | [Claude Code](tools/claude-code-20260828.md) | A ferramenta de desenvolvimento da Anthropic | 2026-08-28 |
+| [Model Hardware Standard](tools/model-hardware-standard.md) | Conectando modelos de IA a equipamentos físicos | 2026-08-28 |
