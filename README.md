@@ -78,3 +78,4 @@ Quer o acesso de alguma? Comenta **"EU QUERO"** no post correspondente do Instag
 | [Claude](tools/claude-20260830.md) | GPS apocalíptico transforma ruas reais em fuga de zumbis | 2026-08-30 |
 | [590+ PROMPTS PRONTOS PARA CRIAR SITES QUE NÃO PARECEM FEITOS POR IA](tools/590-prompts-prontos-para-criar-sites-que-nao-parecem-feitos-por-ia.md) | PROMPTS PROFISSIONAIS PARA SEU SITE | 2026-08-30 |
 | [Grok Bot](tools/grok-bot-20260830.md) | Sua IA personalizada, pronta pra dividir | 2026-08-30 |
+| [Grok Bot](tools/grok-bot-20260830.md) | PLATAFORMA DE BOTS COMPARTILHÁVEIS | 2026-08-30 |
