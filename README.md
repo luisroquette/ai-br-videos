@@ -79,3 +79,4 @@ Quer o acesso de alguma? Comenta **"EU QUERO"** no post correspondente do Instag
 | [590+ PROMPTS PRONTOS PARA CRIAR SITES QUE NÃO PARECEM FEITOS POR IA](tools/590-prompts-prontos-para-criar-sites-que-nao-parecem-feitos-por-ia.md) | PROMPTS PROFISSIONAIS PARA SEU SITE | 2026-08-30 |
 | [Grok Bot](tools/grok-bot-20260830.md) | Sua IA personalizada, pronta pra dividir | 2026-08-30 |
 | [Grok Bot](tools/grok-bot-20260830.md) | PLATAFORMA DE BOTS COMPARTILHÁVEIS | 2026-08-30 |
+| [Grok Voice](tools/grok-voice.md) | IA DE VOZ QUE CURA NOTICIAS PRA VOCE | 2026-08-30 |
