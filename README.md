@@ -75,3 +75,4 @@ Quer o acesso de alguma? Comenta **"EU QUERO"** no post correspondente do Instag
 | [Claude Code](tools/claude-code-20260828.md) | Claude Code Desktop App: nova feature | 2026-08-28 |
 | [H3 Max](tools/h3-max.md) | H3 Max gera videos de IA instantaneamente | 2026-08-28 |
 | [CHAMATH DIZ QUE A DÍVIDA AMERICANA A 6% É O COMEÇO DE UMA ESPIRAL DA MORTE](tools/chamath-diz-que-a-divida-americana-a-6-e-o-comeco-de-uma-espiral-da-morte.md) | O alerta sobre a economia da IA | 2026-08-29 |
+| [Claude](tools/claude-20260830.md) | GPS apocalíptico transforma ruas reais em fuga de zumbis | 2026-08-30 |
