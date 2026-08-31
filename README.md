@@ -85,3 +85,4 @@ Quer o acesso de alguma? Comenta **"EU QUERO"** no post correspondente do Instag
 | [CHAMATH PREVIU A ALTA DA SALESFORCE EM MAIO E A ACAO JA SUBIU 50%](tools/chamath-previu-a-alta-da-salesforce-em-maio-e-a-acao-ja-subiu-50.md) | O SOFTWARE QUE A IA NAO CONSEGUE MATAR | 2026-08-31 |
 | [EMPRESA DE US$ 1 BILHÃO COM UM ÚNICO FUNCIONÁRIO HUMANO? ELE APOSTA QUE SIM](tools/empresa-de-us-1-bilhao-com-um-unico-funcionario-humano-ele-aposta-que-sim.md) | IA comprimindo o trabalho de um departamento inteiro | 2026-08-31 |
 | [Transluce](tools/transluce.md) | O MAIOR TESTE INDEPENDENTE DE IAS | 2026-08-31 |
+| [Scientific Agent Skills](tools/scientific-agent-skills.md) | Agente de IA que roda ciência de verdade | 2026-08-31 |
