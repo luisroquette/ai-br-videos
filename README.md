@@ -80,3 +80,4 @@ Quer o acesso de alguma? Comenta **"EU QUERO"** no post correspondente do Instag
 | [Grok Bot](tools/grok-bot-20260830.md) | Sua IA personalizada, pronta pra dividir | 2026-08-30 |
 | [Grok Bot](tools/grok-bot-20260830.md) | PLATAFORMA DE BOTS COMPARTILHÁVEIS | 2026-08-30 |
 | [Grok Voice](tools/grok-voice.md) | IA DE VOZ QUE CURA NOTICIAS PRA VOCE | 2026-08-30 |
+| [Laguna S 2.1](tools/laguna-s-2-1.md) | IA GIGANTE RODANDO EM VERSÃO COMPACTADA | 2026-08-31 |
