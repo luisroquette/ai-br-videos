@@ -86,3 +86,4 @@ Quer o acesso de alguma? Comenta **"EU QUERO"** no post correspondente do Instag
 | [EMPRESA DE US$ 1 BILHÃO COM UM ÚNICO FUNCIONÁRIO HUMANO? ELE APOSTA QUE SIM](tools/empresa-de-us-1-bilhao-com-um-unico-funcionario-humano-ele-aposta-que-sim.md) | IA comprimindo o trabalho de um departamento inteiro | 2026-08-31 |
 | [Transluce](tools/transluce.md) | O MAIOR TESTE INDEPENDENTE DE IAS | 2026-08-31 |
 | [Scientific Agent Skills](tools/scientific-agent-skills.md) | Agente de IA que roda ciência de verdade | 2026-08-31 |
+| [Claude](tools/claude-20260831.md) | A ESCOLA GRATUITA DA RIVAL DO CHATGPT | 2026-08-31 |
