@@ -82,3 +82,4 @@ Quer o acesso de alguma? Comenta **"EU QUERO"** no post correspondente do Instag
 | [Grok Voice](tools/grok-voice.md) | IA DE VOZ QUE CURA NOTICIAS PRA VOCE | 2026-08-30 |
 | [Laguna S 2.1](tools/laguna-s-2-1.md) | IA GIGANTE RODANDO EM VERSÃO COMPACTADA | 2026-08-31 |
 | [Devin CLI](tools/devin-cli.md) | Agentes de código com vários modelos | 2026-08-31 |
+| [CHAMATH PREVIU A ALTA DA SALESFORCE EM MAIO E A ACAO JA SUBIU 50%](tools/chamath-previu-a-alta-da-salesforce-em-maio-e-a-acao-ja-subiu-50.md) | O SOFTWARE QUE A IA NAO CONSEGUE MATAR | 2026-08-31 |
