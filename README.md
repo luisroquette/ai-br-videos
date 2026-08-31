@@ -87,3 +87,4 @@ Quer o acesso de alguma? Comenta **"EU QUERO"** no post correspondente do Instag
 | [Transluce](tools/transluce.md) | O MAIOR TESTE INDEPENDENTE DE IAS | 2026-08-31 |
 | [Scientific Agent Skills](tools/scientific-agent-skills.md) | Agente de IA que roda ciência de verdade | 2026-08-31 |
 | [Claude](tools/claude-20260831.md) | A ESCOLA GRATUITA DA RIVAL DO CHATGPT | 2026-08-31 |
+| [ELE USOU CLAUDE E EXCEL PARA AUTOMATIZAR 90% DO TRABALHO E GANHAR $15 MIL POR MÊS](tools/ele-usou-claude-e-excel-para-automatizar-90-do-trabalho-e-ganhar-15-mil-por-mes.md) | EXCEL QUE TRABALHA SOZINHO COM IA | 2026-08-31 |
