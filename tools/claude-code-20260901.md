@@ -1,13 +1,17 @@
 # Claude Code
 
-O vídeo mostra alguém usando Claude Code para criar um jogo de zumbis em um fim de semana. O app usa GPS para colocar você no mapa real do seu bairro. Zumbis perseguem você, e a única forma de sobreviver é correr fisicamente. Você tem 60 segundos de vantagem antes da horda aparecer. Atira em caveiras vermelhas, pega caixas de munição na rota e ampulhetas para desacelerar a horda. Correr enche um medidor de carga, que permite empurrar a horda inteira para trás quando você está encurralado.
+Claude Code é o agente de IA da Anthropic para terminal. Ele lê o repositório, entende o contexto e escreve ou edita código. A versão 2.1.257 chegou com 104 mudanças na CLI. O modelo padrão agora é o Claude Fable 5.1, com 1 milhão de tokens de contexto. Preço: US$ 10/US$ 50 por milhão de tokens, e US$ 0,25 por milhão em leituras de cache.
 
 ## Por que importa
 
-Isso é um exemplo concreto de prototipagem rápida com IA. Não é um demo estático: o app integra GPS real, mecânicas de jogo e resposta à locomoção física. Uma pessoa sozinha conseguiu criar algo que antes exigiria uma equipe. A parte mais relevante é que o Claude Code não só gerou código — ele orquestrou a lógica do jogo, os assets e a integração com o mapa. A barreira para testar ideias de fitness gamificado caiu para uma pessoa com um fim de semana livre.
+1 milhão de tokens é relevante para quem trabalha com repositórios grandes. Dá para manter o projeto inteiro no contexto sem picar arquivos. O Auto mode também ganhou limites: pede confirmação antes de ler arquivos fora dos diretórios de trabalho, e bloqueia auto-aprovação para metadados de nuvem, egress evasion e cross-tenant reach. Isso reduz exposição em ambientes multi-tenant.
+
+## Como começar
+
+Atualize o CLI para a versão 2.1.257. Antes de rodar em produção, revise as novas opções do Auto mode. Teste o Fable 5.1 em um repositório grande para medir o consumo de tokens.
 
 ---
 
-**Fonte original:** https://x.com/RoundtableSpace/status/2094549541684924638
+**Fonte original:** https://x.com/ClaudeCodeLog/status/2094851915007828101
 
 **Veja o vídeo:** [@ai_br_videos no Instagram](https://instagram.com/ai_br_videos)
