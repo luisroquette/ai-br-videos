@@ -90,3 +90,4 @@ Quer o acesso de alguma? Comenta **"EU QUERO"** no post correspondente do Instag
 | [ELE USOU CLAUDE E EXCEL PARA AUTOMATIZAR 90% DO TRABALHO E GANHAR $15 MIL POR MÊS](tools/ele-usou-claude-e-excel-para-automatizar-90-do-trabalho-e-ganhar-15-mil-por-mes.md) | EXCEL QUE TRABALHA SOZINHO COM IA | 2026-08-31 |
 | [Claude Code](tools/claude-code-20260831.md) | A IA QUE ESCREVE CÓDIGO COM VOCÊ | 2026-08-31 |
 | [Claude Code](tools/claude-code-20260901.md) | App de corrida com horda de zumbis | 2026-09-01 |
+| [Obsidian](tools/obsidian.md) | AGENTE DE IA NO SEU APP DE NOTAS | 2026-09-01 |
