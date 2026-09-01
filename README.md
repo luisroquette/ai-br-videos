@@ -96,3 +96,4 @@ Quer o acesso de alguma? Comenta **"EU QUERO"** no post correspondente do Instag
 | [Claude Code](tools/claude-code-20260901.md) | JOGO DE SOBREVIVENCIA CRIADO POR IA | 2026-09-01 |
 | [Claude Code](tools/claude-code-20260901.md) | APP DE CORRIDA DISFARCADO DE ZUMBIS | 2026-09-01 |
 | [Claude Code](tools/claude-code-20260901.md) | APP QUE VIRA SUA CORRIDA EM JOGO | 2026-09-01 |
+| [Claude Code](tools/claude-code-20260901.md) | JOGO DE SOBREVIVÊNCIA COM GPS E IA | 2026-09-01 |
