@@ -1,18 +1,10 @@
 # Claude Code
 
-O vídeo mostra um app de zumbis criado com Claude Code via vibe coding. A premissa: os zumbis perseguem você com base na sua posição GPS real, e a única forma de sobreviver é correr fisicamente. O autor montou isso em um fim de semana.
-
-O jogo funciona assim: você tem 60 segundos de vantagem antes da horda aparecer no mapa do seu bairro. Para se defender, toca nos crânios vermelhos para atirar. Munição aparece em caixas no caminho, e ampulhetas desaceleram a horda. Um medidor de carga enche enquanto você corre; quando está encurralado, ele permite empurrar a horda inteira para trás.
+O vídeo mostra o Claude Code sendo usado para um projeto que não é um TODO app: um jogo mobile onde zumbis perseguem o jogador na posição GPS real. A única forma de sobreviver é correr fisicamente. O autor passou o fim de semana construindo isso com o agente de codificação, descrevendo funcionalidades em linguagem natural e vendo o código se materializar. A horda surge no mapa do bairro 60 segundos depois do início. O jogador toca em caveiras vermelhas para atirar, coleta caixas de munição no caminho para recarregar e ampulhetas para desacelerar os zumbis. Um medidor de carga enche enquanto a pessoa corre e permite empurrar a horde inteira para trás quando está encurralada.
 
 ## Por que importa
 
-Isso é um exemplo prático do que dá para fazer com Claude Code sem uma equipe. O autor saiu de uma ideia para um app funcional com GPS, tiro e movimento real em um fim de semana. Não é um demo estático: é um jogo que exige esforço físico de verdade. Pode ser o que apps de fitness tentam empurrar há anos, mas aqui o motivo para correr é urgência, não estatística.
-
-Para dev, o detalhe relevante é o processo: prompts diretos, iteração rápida e correção de bugs no próprio celular. O Claude Code cuidou da integração com o mapa e da lógica do jogo.
-
-## Como começar
-
-O caminho mais direto é você mesmo fazer um teste. Instale o Claude Code, abra um projeto vazio e descreva a mecânica que quer criar. No caso do jogo, comece pelo GPS e o spawn da horda, depois adicione os itens e o medidor de carga. Vá testando em um dispositivo físico — o simulador não vai te ajudar a fugir de zumbis.
+Esse é o “app de fitness com IA” que muita gente tenta vender, mas com um loop de gameplay real. Transformar corrida em sobrevivência dá um motivo concreto para se exercitar — e o exemplo mostra que dava para construir isso em um fim de semana, não em um trimestre de desenvolvimento. Para devs, o ponto é o fluxo: o Claude Code não gerou um esqueleto estático; ele iterou com o autor até fechar mecânicas de tiro, progressão de dificuldade e integração com GPS. O resultado não é perfeito, mas é um protótipo jogável criado por uma pessoa no tempo de um hackathon.
 
 ---
 
