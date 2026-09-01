@@ -1,10 +1,14 @@
 # Claude Code
 
-O vídeo mostra o Claude Code sendo usado para um projeto que não é um TODO app: um jogo mobile onde zumbis perseguem o jogador na posição GPS real. A única forma de sobreviver é correr fisicamente. O autor passou o fim de semana construindo isso com o agente de codificação, descrevendo funcionalidades em linguagem natural e vendo o código se materializar. A horda surge no mapa do bairro 60 segundos depois do início. O jogador toca em caveiras vermelhas para atirar, coleta caixas de munição no caminho para recarregar e ampulhetas para desacelerar os zumbis. Um medidor de carga enche enquanto a pessoa corre e permite empurrar a horde inteira para trás quando está encurralada.
+O vídeo mostra um app de corrida transformado em jogo de sobrevivência: zumbis spawnam no seu mapa real (via GPS) e a única defesa é correr fisicamente. Você tem 60 segundos de vantagem antes da horda aparecer. Durante a fuga, toca em caveiras vermelhas para atirar, pega munição no caminho e usa ampulhetas para desacelerar os zumbis. Se encurralado, uma barra de carga — que enche conforme você corre — permite empurrar a horda para trás.
 
 ## Por que importa
 
-Esse é o “app de fitness com IA” que muita gente tenta vender, mas com um loop de gameplay real. Transformar corrida em sobrevivência dá um motivo concreto para se exercitar — e o exemplo mostra que dava para construir isso em um fim de semana, não em um trimestre de desenvolvimento. Para devs, o ponto é o fluxo: o Claude Code não gerou um esqueleto estático; ele iterou com o autor até fechar mecânicas de tiro, progressão de dificuldade e integração com GPS. O resultado não é perfeito, mas é um protótipo jogável criado por uma pessoa no tempo de um hackathon.
+É um exemplo direto de "vibe coding" funcionando: um jogo com mecânica de GPS, física e loop de gameplay montado em um fim de semana com Claude Code. Não é demo de laboratório, é um app que você abre na rua e joga. Também mostra um uso prático de IA para fitness: em vez de mais um contador de passos, a corrida vira condição de sobrevivência. A gameplay cria motivação real para se mexer, sem precisar de gamificação forçada.
+
+## Como começar
+
+Se quiser replicar a ideia, o caminho é: peça ao Claude Code para gerar um app mobile com acesso a GPS em tempo real. Use o mapa do bairro como base do cenário. Comece com um timer de 60 segundos antes de ativar a horda. Depois adicione os itens de interação (tiro, munição, ampulheta) e a barra de carga ligada ao acelerômetro. Teste na rua, não no simulador — a experiência depende de movimento físico real.
 
 ---
 
