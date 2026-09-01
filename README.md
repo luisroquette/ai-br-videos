@@ -93,3 +93,4 @@ Quer o acesso de alguma? Comenta **"EU QUERO"** no post correspondente do Instag
 | [Obsidian](tools/obsidian.md) | AGENTE DE IA NO SEU APP DE NOTAS | 2026-09-01 |
 | [Grok Bot](tools/grok-bot-20260901.md) | IA que cria bots e apps em segundos | 2026-09-01 |
 | [Claude Code](tools/claude-code-20260901.md) | APP DE SOBREVIVENCIA COM GPS REAL | 2026-09-01 |
+| [Claude Code](tools/claude-code-20260901.md) | JOGO DE SOBREVIVENCIA CRIADO POR IA | 2026-09-01 |
