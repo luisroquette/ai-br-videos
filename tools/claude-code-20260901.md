@@ -1,10 +1,18 @@
 # Claude Code
 
-O Claude Code foi usado para criar um jogo mobile de zumbis que usa sua posição GPS real. O tweet mostra um protótipo construído em um fim de semana: zumbis aparecem no seu bairro, você tem 60 segundos de vantagem antes de eles surgirem no mapa real. Para sobreviver, precisa correr fisicamente. O app usa marcadores vermelhos para atirar, caixas de munição no caminho para recarregar e ampulhetas para desacelerar a horda. Uma barra de carga enche conforme você corre e, quando encurralado, permite empurrar os zumbis de volta.
+O vídeo mostra um app de zumbis criado com Claude Code via vibe coding. A premissa: os zumbis perseguem você com base na sua posição GPS real, e a única forma de sobreviver é correr fisicamente. O autor montou isso em um fim de semana.
+
+O jogo funciona assim: você tem 60 segundos de vantagem antes da horda aparecer no mapa do seu bairro. Para se defender, toca nos crânios vermelhos para atirar. Munição aparece em caixas no caminho, e ampulhetas desaceleram a horda. Um medidor de carga enche enquanto você corre; quando está encurralado, ele permite empurrar a horda inteira para trás.
 
 ## Por que importa
 
-O conceito é fitness disfarçado de jogo. Em vez de gamificação artificial com pontos, o próprio ambiente real vira a mecânica central. O GPS não é um acessório — é a condição de existência do jogo. Isso muda o paradigma de apps de corrida, que normalmente dependem de motivação interna. Aqui, a ameaça externa cria urgência real. E o fato de ter sido construído em um fim de semana mostra que ferramentas de vibe coding como o Claude Code derrubam a barreira entre ideia e protótipo funcional. Não é demos de marketing; é um app jogável com mecânica integrada ao mundo físico. Para devs, o valor está em ver como uma conversa com IA pode gerar um projeto completo — do mapa ao loop de gameplay — sem escrever cada linha manualmente.
+Isso é um exemplo prático do que dá para fazer com Claude Code sem uma equipe. O autor saiu de uma ideia para um app funcional com GPS, tiro e movimento real em um fim de semana. Não é um demo estático: é um jogo que exige esforço físico de verdade. Pode ser o que apps de fitness tentam empurrar há anos, mas aqui o motivo para correr é urgência, não estatística.
+
+Para dev, o detalhe relevante é o processo: prompts diretos, iteração rápida e correção de bugs no próprio celular. O Claude Code cuidou da integração com o mapa e da lógica do jogo.
+
+## Como começar
+
+O caminho mais direto é você mesmo fazer um teste. Instale o Claude Code, abra um projeto vazio e descreva a mecânica que quer criar. No caso do jogo, comece pelo GPS e o spawn da horda, depois adicione os itens e o medidor de carga. Vá testando em um dispositivo físico — o simulador não vai te ajudar a fugir de zumbis.
 
 ---
 
