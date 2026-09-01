@@ -1,10 +1,10 @@
 # Claude Code
 
-Claude Code é o agente de codificação da Anthropic que roda direto no terminal. Ele lê o projeto, executa comandos e altera arquivos a partir de instruções em linguagem natural. O vídeo mostra alguém usando o Claude Code para criar um app mobile de corrida onde zumbis perseguem o jogador no mapa real do bairro, usando GPS. A horda só aparece depois de 60 segundos de vantagem. O jogador precisa correr fisicamente para sobreviver, atirar nos crânios vermelhos na tela, pegar caixas de munição pelo caminho e usar ampulhetas para desacelerar os zumbis. Um medidor de carga enche enquanto a pessoa corre e pode ser usado para empurrar a horda quando encurralada.
+O Claude Code foi usado para criar um jogo mobile de zumbis que usa sua posição GPS real. O tweet mostra um protótipo construído em um fim de semana: zumbis aparecem no seu bairro, você tem 60 segundos de vantagem antes de eles surgirem no mapa real. Para sobreviver, precisa correr fisicamente. O app usa marcadores vermelhos para atirar, caixas de munição no caminho para recarregar e ampulhetas para desacelerar a horda. Uma barra de carga enche conforme você corre e, quando encurralado, permite empurrar os zumbis de volta.
 
 ## Por que importa
 
-O que interessa aqui não é o jogo em si, mas o processo. Um app com lógica de GPS, física de movimento, spawn de inimigos e UI foi construído em um fim de semana. Essa é exatamente a proposta do fitness app que muita gente tenta fazer: transformar exercício em algo com urgência real. Com uma ferramenta como o Claude Code, o custo de testar uma ideia dessas cai drasticamente — você descreve o comportamento, a IA implementa e você valida no mundo real.
+O conceito é fitness disfarçado de jogo. Em vez de gamificação artificial com pontos, o próprio ambiente real vira a mecânica central. O GPS não é um acessório — é a condição de existência do jogo. Isso muda o paradigma de apps de corrida, que normalmente dependem de motivação interna. Aqui, a ameaça externa cria urgência real. E o fato de ter sido construído em um fim de semana mostra que ferramentas de vibe coding como o Claude Code derrubam a barreira entre ideia e protótipo funcional. Não é demos de marketing; é um app jogável com mecânica integrada ao mundo físico. Para devs, o valor está em ver como uma conversa com IA pode gerar um projeto completo — do mapa ao loop de gameplay — sem escrever cada linha manualmente.
 
 ---
 
