@@ -99,3 +99,4 @@ Quer o acesso de alguma? Comenta **"EU QUERO"** no post correspondente do Instag
 | [Claude Code](tools/claude-code-20260901.md) | JOGO DE SOBREVIVÊNCIA COM GPS E IA | 2026-09-01 |
 | [ELON MUSK EXPLICA O GARGALO REAL DA IA: CHIPS CRESCEM 50% AO ANO, ENERGIA SÓ 20%](tools/elon-musk-explica-o-gargalo-real-da-ia-chips-crescem-50-ao-ano-energia-so-20.md) | O que pode travar a expansão da IA | 2026-09-01 |
 | [Claude Code](tools/claude-code-20260901.md) | A IA QUE ESCREVE CÓDIGO POR VOCÊ | 2026-09-01 |
+| [ELON MUSK ADVERTE QUE VAI FALTAR ENERGIA PARA A IA: 15 GIGAWATTS EM 2027](tools/elon-musk-adverte-que-vai-faltar-energia-para-a-ia-15-gigawatts-em-2027.md) | Por que a IA está ficando sem energia | 2026-09-01 |
