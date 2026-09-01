@@ -1,14 +1,10 @@
 # Claude Code
 
-O vídeo mostra um app de corrida transformado em jogo de sobrevivência: zumbis spawnam no seu mapa real (via GPS) e a única defesa é correr fisicamente. Você tem 60 segundos de vantagem antes da horda aparecer. Durante a fuga, toca em caveiras vermelhas para atirar, pega munição no caminho e usa ampulhetas para desacelerar os zumbis. Se encurralado, uma barra de carga — que enche conforme você corre — permite empurrar a horda para trás.
+O vídeo mostra alguém usando Claude Code para criar um jogo de zumbis em um fim de semana. O app usa GPS para colocar você no mapa real do seu bairro. Zumbis perseguem você, e a única forma de sobreviver é correr fisicamente. Você tem 60 segundos de vantagem antes da horda aparecer. Atira em caveiras vermelhas, pega caixas de munição na rota e ampulhetas para desacelerar a horda. Correr enche um medidor de carga, que permite empurrar a horda inteira para trás quando você está encurralado.
 
 ## Por que importa
 
-É um exemplo direto de "vibe coding" funcionando: um jogo com mecânica de GPS, física e loop de gameplay montado em um fim de semana com Claude Code. Não é demo de laboratório, é um app que você abre na rua e joga. Também mostra um uso prático de IA para fitness: em vez de mais um contador de passos, a corrida vira condição de sobrevivência. A gameplay cria motivação real para se mexer, sem precisar de gamificação forçada.
-
-## Como começar
-
-Se quiser replicar a ideia, o caminho é: peça ao Claude Code para gerar um app mobile com acesso a GPS em tempo real. Use o mapa do bairro como base do cenário. Comece com um timer de 60 segundos antes de ativar a horda. Depois adicione os itens de interação (tiro, munição, ampulheta) e a barra de carga ligada ao acelerômetro. Teste na rua, não no simulador — a experiência depende de movimento físico real.
+Isso é um exemplo concreto de prototipagem rápida com IA. Não é um demo estático: o app integra GPS real, mecânicas de jogo e resposta à locomoção física. Uma pessoa sozinha conseguiu criar algo que antes exigiria uma equipe. A parte mais relevante é que o Claude Code não só gerou código — ele orquestrou a lógica do jogo, os assets e a integração com o mapa. A barreira para testar ideias de fitness gamificado caiu para uma pessoa com um fim de semana livre.
 
 ---
 
