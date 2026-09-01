@@ -101,3 +101,4 @@ Quer o acesso de alguma? Comenta **"EU QUERO"** no post correspondente do Instag
 | [Claude Code](tools/claude-code-20260901.md) | A IA QUE ESCREVE CÓDIGO POR VOCÊ | 2026-09-01 |
 | [ELON MUSK ADVERTE QUE VAI FALTAR ENERGIA PARA A IA: 15 GIGAWATTS EM 2027](tools/elon-musk-adverte-que-vai-faltar-energia-para-a-ia-15-gigawatts-em-2027.md) | Por que a IA está ficando sem energia | 2026-09-01 |
 | [Video Use](tools/video-use.md) | Edição de vídeo automática com IA | 2026-09-01 |
+| [GEMINI DA TAILÂNDIA EXPLODE NO X: 'FRAGILE' VIRA TOP 2 NA MALÁSIA E TOP 3 NA INDONÉSIA](tools/gemini-da-tailandia-explode-no-x-fragile-vira-top-2-na-malasia-e-top-3-na-indonesia.md) | A MÚSICA TAILANDESA QUE TOMOU A ÁSIA | 2026-09-01 |
