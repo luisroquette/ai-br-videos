@@ -97,3 +97,4 @@ Quer o acesso de alguma? Comenta **"EU QUERO"** no post correspondente do Instag
 | [Claude Code](tools/claude-code-20260901.md) | APP DE CORRIDA DISFARCADO DE ZUMBIS | 2026-09-01 |
 | [Claude Code](tools/claude-code-20260901.md) | APP QUE VIRA SUA CORRIDA EM JOGO | 2026-09-01 |
 | [Claude Code](tools/claude-code-20260901.md) | JOGO DE SOBREVIVÊNCIA COM GPS E IA | 2026-09-01 |
+| [ELON MUSK EXPLICA O GARGALO REAL DA IA: CHIPS CRESCEM 50% AO ANO, ENERGIA SÓ 20%](tools/elon-musk-explica-o-gargalo-real-da-ia-chips-crescem-50-ao-ano-energia-so-20.md) | O que pode travar a expansão da IA | 2026-09-01 |
