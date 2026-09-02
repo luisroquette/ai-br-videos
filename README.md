@@ -105,3 +105,4 @@ Quer o acesso de alguma? Comenta **"EU QUERO"** no post correspondente do Instag
 | [Grok Bot](tools/grok-bot-20260902.md) | Agentes autônomos de análise financeira | 2026-09-02 |
 | [Grok](tools/grok-20260902.md) | IA QUE FAZ ANÁLISE FINANCEIRA SOZINHA | 2026-09-02 |
 | [A MÚSICA DE UM IDOL TAILANDÊS EXPLODIU NA ÁSIA E ESTÁ DOMINANDO TRENDS NO X](tools/a-musica-de-um-idol-tailandes-explodiu-na-asia-e-esta-dominando-trends-no-x.md) | balada de IA-pop em viralização global | 2026-09-02 |
+| [Fable 5.1](tools/fable-5-1.md) | IA DE CODIGO DENTRO DO GITHUB COPILOT | 2026-09-02 |
