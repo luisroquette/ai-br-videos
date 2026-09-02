@@ -110,3 +110,4 @@ Quer o acesso de alguma? Comenta **"EU QUERO"** no post correspondente do Instag
 | [O ARTISTA GEMINI LANCOU 'FRAGILE', A BALADA SOBRE O DIA EM QUE TUDO ACABOU](tools/o-artista-gemini-lancou-fragile-a-balada-sobre-o-dia-em-que-tudo-acabou.md) | Nova balada tailandesa do RISER MUSIC | 2026-09-02 |
 | [Perplexity Computer](tools/perplexity-computer.md) | IA QUE MIGRA DA NUVEM PRO SEU MAC | 2026-09-02 |
 | [nodeterm](tools/nodeterm.md) | Vários agentes de IA trabalhando juntos | 2026-09-02 |
+| [O FÃ DE NOME GEMINI QUE NÃO TEM NADA A VER COM A IA DO GOOGLE](tools/o-fa-de-nome-gemini-que-nao-tem-nada-a-ver-com-a-ia-do-google.md) | Ídolo tailandês e o light stick oficial | 2026-09-02 |
