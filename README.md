@@ -107,3 +107,4 @@ Quer o acesso de alguma? Comenta **"EU QUERO"** no post correspondente do Instag
 | [A MÚSICA DE UM IDOL TAILANDÊS EXPLODIU NA ÁSIA E ESTÁ DOMINANDO TRENDS NO X](tools/a-musica-de-um-idol-tailandes-explodiu-na-asia-e-esta-dominando-trends-no-x.md) | balada de IA-pop em viralização global | 2026-09-02 |
 | [Fable 5.1](tools/fable-5-1.md) | IA DE CODIGO DENTRO DO GITHUB COPILOT | 2026-09-02 |
 | [Claude Code](tools/claude-code-20260902.md) | Prompts oficiais prontos pra copiar e colar | 2026-09-02 |
+| [O ARTISTA GEMINI LANCOU 'FRAGILE', A BALADA SOBRE O DIA EM QUE TUDO ACABOU](tools/o-artista-gemini-lancou-fragile-a-balada-sobre-o-dia-em-que-tudo-acabou.md) | Nova balada tailandesa do RISER MUSIC | 2026-09-02 |
