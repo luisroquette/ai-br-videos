@@ -104,3 +104,4 @@ Quer o acesso de alguma? Comenta **"EU QUERO"** no post correspondente do Instag
 | [GEMINI DA TAILÂNDIA EXPLODE NO X: 'FRAGILE' VIRA TOP 2 NA MALÁSIA E TOP 3 NA INDONÉSIA](tools/gemini-da-tailandia-explode-no-x-fragile-vira-top-2-na-malasia-e-top-3-na-indonesia.md) | A MÚSICA TAILANDESA QUE TOMOU A ÁSIA | 2026-09-01 |
 | [Grok Bot](tools/grok-bot-20260902.md) | Agentes autônomos de análise financeira | 2026-09-02 |
 | [Grok](tools/grok-20260902.md) | IA QUE FAZ ANÁLISE FINANCEIRA SOZINHA | 2026-09-02 |
+| [A MÚSICA DE UM IDOL TAILANDÊS EXPLODIU NA ÁSIA E ESTÁ DOMINANDO TRENDS NO X](tools/a-musica-de-um-idol-tailandes-explodiu-na-asia-e-esta-dominando-trends-no-x.md) | balada de IA-pop em viralização global | 2026-09-02 |
