@@ -111,3 +111,4 @@ Quer o acesso de alguma? Comenta **"EU QUERO"** no post correspondente do Instag
 | [Perplexity Computer](tools/perplexity-computer.md) | IA QUE MIGRA DA NUVEM PRO SEU MAC | 2026-09-02 |
 | [nodeterm](tools/nodeterm.md) | Vários agentes de IA trabalhando juntos | 2026-09-02 |
 | [O FÃ DE NOME GEMINI QUE NÃO TEM NADA A VER COM A IA DO GOOGLE](tools/o-fa-de-nome-gemini-que-nao-tem-nada-a-ver-com-a-ia-do-google.md) | Ídolo tailandês e o light stick oficial | 2026-09-02 |
+| [Claude](tools/claude-20260902.md) | Tutorial prático de IA para criar sites | 2026-09-02 |
