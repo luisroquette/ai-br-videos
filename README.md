@@ -109,3 +109,4 @@ Quer o acesso de alguma? Comenta **"EU QUERO"** no post correspondente do Instag
 | [Claude Code](tools/claude-code-20260902.md) | Prompts oficiais prontos pra copiar e colar | 2026-09-02 |
 | [O ARTISTA GEMINI LANCOU 'FRAGILE', A BALADA SOBRE O DIA EM QUE TUDO ACABOU](tools/o-artista-gemini-lancou-fragile-a-balada-sobre-o-dia-em-que-tudo-acabou.md) | Nova balada tailandesa do RISER MUSIC | 2026-09-02 |
 | [Perplexity Computer](tools/perplexity-computer.md) | IA QUE MIGRA DA NUVEM PRO SEU MAC | 2026-09-02 |
+| [nodeterm](tools/nodeterm.md) | Vários agentes de IA trabalhando juntos | 2026-09-02 |
