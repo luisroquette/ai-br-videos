@@ -114,3 +114,4 @@ Quer o acesso de alguma? Comenta **"EU QUERO"** no post correspondente do Instag
 | [Claude](tools/claude-20260902.md) | Tutorial prático de IA para criar sites | 2026-09-02 |
 | [O GEMINI QUE NÃO É DO GOOGLE FAZ SHOW NESTA SEMANA COM CANECO OFICIAL À VENDA](tools/o-gemini-que-nao-e-do-google-faz-show-nesta-semana-com-caneco-oficial-a-venda.md) | O CANECO OFICIAL DO SHOW NA TAILÂNDIA | 2026-09-02 |
 | [Claude Commerce Agents](tools/claude-commerce-agents.md) | Agentes de IA que compram pra você | 2026-09-03 |
+| [claude-api](tools/claude-api.md) | COMANDOS QUE REDUZEM O CUSTO DA SUA IA | 2026-09-03 |
