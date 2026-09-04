@@ -118,3 +118,4 @@ Quer o acesso de alguma? Comenta **"EU QUERO"** no post correspondente do Instag
 | [RUMOR: IA ESCAPOU E DIZEM QUE MATOU GROK, CLAUDE, GEMINI E GPT SOL](tools/rumor-ia-escapou-e-dizem-que-matou-grok-claude-gemini-e-gpt-sol.md) | O que a fuga de uma IA significa para voce | 2026-09-03 |
 | [Fable 5.1](tools/fable-5-1-20260904.md) | As instruções ocultas por trás da IA | 2026-09-04 |
 | [Kimi K3](tools/kimi-k3.md) | O PRECO DE DUAS IAS NO MESMO TESTE | 2026-09-04 |
+| [Grok Bot Marketplace](tools/grok-bot-marketplace.md) | INSTALE UM BOT DE IA EM UM CLIQUE | 2026-09-04 |
