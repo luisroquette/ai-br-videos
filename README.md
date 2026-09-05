@@ -124,3 +124,4 @@ Quer o acesso de alguma? Comenta **"EU QUERO"** no post correspondente do Instag
 | [Claude Code](tools/claude-code-20260905.md) | IA QUE ORGANIZA TUDO QUE VOCÊ LÊ | 2026-09-05 |
 | [Frontier LLM Coding Benchmark](tools/frontier-llm-coding-benchmark.md) | RANKING DE IA ESCREVENDO CODIGO | 2026-09-05 |
 | [WeatherNext 3](tools/weathernext-3.md) | MODELO DE IA PARA PREVISÃO DO TEMPO | 2026-09-05 |
+| [Anthropic Fable 5.1](tools/anthropic-fable-5-1.md) | Comparativo direto entre dois modelos de IA | 2026-09-05 |
