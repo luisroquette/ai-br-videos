@@ -123,3 +123,4 @@ Quer o acesso de alguma? Comenta **"EU QUERO"** no post correspondente do Instag
 | [UMA IA CRIOU UM SITE COMPLETO DE UMA VEZ SO — ASSISTA](tools/uma-ia-criou-um-site-completo-de-uma-vez-so-assista.md) | Site gerado inteiro por IA em segundos | 2026-09-05 |
 | [Claude Code](tools/claude-code-20260905.md) | IA QUE ORGANIZA TUDO QUE VOCÊ LÊ | 2026-09-05 |
 | [Frontier LLM Coding Benchmark](tools/frontier-llm-coding-benchmark.md) | RANKING DE IA ESCREVENDO CODIGO | 2026-09-05 |
+| [WeatherNext 3](tools/weathernext-3.md) | MODELO DE IA PARA PREVISÃO DO TEMPO | 2026-09-05 |
