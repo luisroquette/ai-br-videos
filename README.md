@@ -127,3 +127,4 @@ Quer o acesso de alguma? Comenta **"EU QUERO"** no post correspondente do Instag
 | [Anthropic Fable 5.1](tools/anthropic-fable-5-1.md) | Comparativo direto entre dois modelos de IA | 2026-09-05 |
 | [Claude Commerce Agents](tools/claude-commerce-agents-20260905.md) | Codigo aberto pra agentes de compras | 2026-09-05 |
 | [GPT 6 Astra](tools/gpt-6-astra.md) | IA GERA VÍDEO E MÚSICA VIA CÓDIGO | 2026-09-05 |
+| [ELE TROCOU O CLAUDE DE $200/MES POR UMA IA DE $10. O MOTIVO VAI TE SURPREENDER](tools/ele-trocou-o-claude-de-200-mes-por-uma-ia-de-10-o-motivo-vai-te-surpreender.md) | Modelo open source supera gigantes por 1/20 do preco. | 2026-09-05 |
