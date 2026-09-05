@@ -119,3 +119,4 @@ Quer o acesso de alguma? Comenta **"EU QUERO"** no post correspondente do Instag
 | [Fable 5.1](tools/fable-5-1-20260904.md) | As instruções ocultas por trás da IA | 2026-09-04 |
 | [Kimi K3](tools/kimi-k3.md) | O PRECO DE DUAS IAS NO MESMO TESTE | 2026-09-04 |
 | [Grok Bot Marketplace](tools/grok-bot-marketplace.md) | INSTALE UM BOT DE IA EM UM CLIQUE | 2026-09-04 |
+| [GPT-6 E OUTRAS 3 IAS RECEBERAM O MESMO PROMPT: A DIFERENCA E ABSURDA](tools/gpt-6-e-outras-3-ias-receberam-o-mesmo-prompt-a-diferenca-e-absurda.md) | QUATRO CHATBOTS DE IA FACE A FACE | 2026-09-05 |
