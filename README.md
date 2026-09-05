@@ -122,3 +122,4 @@ Quer o acesso de alguma? Comenta **"EU QUERO"** no post correspondente do Instag
 | [GPT-6 E OUTRAS 3 IAS RECEBERAM O MESMO PROMPT: A DIFERENCA E ABSURDA](tools/gpt-6-e-outras-3-ias-receberam-o-mesmo-prompt-a-diferenca-e-absurda.md) | QUATRO CHATBOTS DE IA FACE A FACE | 2026-09-05 |
 | [UMA IA CRIOU UM SITE COMPLETO DE UMA VEZ SO — ASSISTA](tools/uma-ia-criou-um-site-completo-de-uma-vez-so-assista.md) | Site gerado inteiro por IA em segundos | 2026-09-05 |
 | [Claude Code](tools/claude-code-20260905.md) | IA QUE ORGANIZA TUDO QUE VOCÊ LÊ | 2026-09-05 |
+| [Frontier LLM Coding Benchmark](tools/frontier-llm-coding-benchmark.md) | RANKING DE IA ESCREVENDO CODIGO | 2026-09-05 |
