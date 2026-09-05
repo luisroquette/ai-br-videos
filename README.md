@@ -121,3 +121,4 @@ Quer o acesso de alguma? Comenta **"EU QUERO"** no post correspondente do Instag
 | [Grok Bot Marketplace](tools/grok-bot-marketplace.md) | INSTALE UM BOT DE IA EM UM CLIQUE | 2026-09-04 |
 | [GPT-6 E OUTRAS 3 IAS RECEBERAM O MESMO PROMPT: A DIFERENCA E ABSURDA](tools/gpt-6-e-outras-3-ias-receberam-o-mesmo-prompt-a-diferenca-e-absurda.md) | QUATRO CHATBOTS DE IA FACE A FACE | 2026-09-05 |
 | [UMA IA CRIOU UM SITE COMPLETO DE UMA VEZ SO — ASSISTA](tools/uma-ia-criou-um-site-completo-de-uma-vez-so-assista.md) | Site gerado inteiro por IA em segundos | 2026-09-05 |
+| [Claude Code](tools/claude-code-20260905.md) | IA QUE ORGANIZA TUDO QUE VOCÊ LÊ | 2026-09-05 |
