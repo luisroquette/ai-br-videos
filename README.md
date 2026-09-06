@@ -141,3 +141,4 @@ Quer o acesso de alguma? Comenta **"EU QUERO"** no post correspondente do Instag
 | [OpenClaw](tools/openclaw.md) | AGENTE DE IA QUE RODA NO SEU PC | 2026-09-06 |
 | [GESTOR DE BILHÕES DA WALL STREET DIZ QUE A ESCOLA ESTRAGA O CÉREBRO E A IA ENSINA MELHOR](tools/gestor-de-bilhoes-da-wall-street-diz-que-a-escola-estraga-o-cerebro-e-a-ia-ensina-melhor.md) | Equipe de IAs que debatem com você | 2026-09-06 |
 | [Dreamina](tools/dreamina.md) | Do boneco de argila ao vídeo pronto | 2026-09-06 |
+| [Dreamina](tools/dreamina-20260906.md) | IA que vira cena 3D em vídeo final | 2026-09-06 |
