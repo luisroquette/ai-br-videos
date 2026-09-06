@@ -129,3 +129,4 @@ Quer o acesso de alguma? Comenta **"EU QUERO"** no post correspondente do Instag
 | [GPT 6 Astra](tools/gpt-6-astra.md) | IA GERA VÍDEO E MÚSICA VIA CÓDIGO | 2026-09-05 |
 | [ELE TROCOU O CLAUDE DE $200/MES POR UMA IA DE $10. O MOTIVO VAI TE SURPREENDER](tools/ele-trocou-o-claude-de-200-mes-por-uma-ia-de-10-o-motivo-vai-te-surpreender.md) | Modelo open source supera gigantes por 1/20 do preco. | 2026-09-05 |
 | [Claude](tools/claude-20260905.md) | A PROVA AGORA E CODIGO VERIFICAVEL | 2026-09-05 |
+| [ChatGPT 6 Astra](tools/chatgpt-6-astra.md) | O PLUGIN QUE CONTROLA AGENTES DE IA | 2026-09-06 |
