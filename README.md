@@ -131,3 +131,4 @@ Quer o acesso de alguma? Comenta **"EU QUERO"** no post correspondente do Instag
 | [Claude](tools/claude-20260905.md) | A PROVA AGORA E CODIGO VERIFICAVEL | 2026-09-05 |
 | [ChatGPT 6 Astra](tools/chatgpt-6-astra.md) | O PLUGIN QUE CONTROLA AGENTES DE IA | 2026-09-06 |
 | [Claude Code](tools/claude-code-20260906.md) | IA que monta modelos financeiros sozinha | 2026-09-06 |
+| [Kimi K3](tools/kimi-k3-20260906.md) | Agentes de IA que executam tarefas sozinhos | 2026-09-06 |
