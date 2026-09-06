@@ -144,3 +144,4 @@ Quer o acesso de alguma? Comenta **"EU QUERO"** no post correspondente do Instag
 | [Dreamina](tools/dreamina-20260906.md) | IA que vira cena 3D em vídeo final | 2026-09-06 |
 | [GPT-6 Astra](tools/gpt-6-astra-20260906.md) | IA que cria jogos 3D inteiros sozinha | 2026-09-06 |
 | [GPT-6 Astra](tools/gpt-6-astra-20260906.md) | A IA QUE PROJETA ROBOS DE VERDADE | 2026-09-06 |
+| [GPT-6 Astra](tools/gpt-6-astra-20260906.md) | CEREBRO DIGITAL CONTROLA INSETO NO JOGO | 2026-09-06 |
