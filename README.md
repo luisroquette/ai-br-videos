@@ -137,3 +137,4 @@ Quer o acesso de alguma? Comenta **"EU QUERO"** no post correspondente do Instag
 | [Open WebUI](tools/open-webui.md) | Um painel unico para todas as suas IAs | 2026-09-06 |
 | [GPT-6 Astra](tools/gpt-6-astra-20260906.md) | A IA QUE FAZ DIAGNÓSTICO COMO MÉDICO | 2026-09-06 |
 | [Claude Code](tools/claude-code-20260906.md) | A aula dos engenheiros que criaram a IA | 2026-09-06 |
+| [ESSE SITE GRATIS TEM MAIS DE 10.000 PROMPTS PRONTOS PARA CHATGPT E CLAUDE](tools/esse-site-gratis-tem-mais-de-10-000-prompts-prontos-para-chatgpt-e-claude.md) | BIBLIOTECA GRATUITA DE COMANDOS DE IA | 2026-09-06 |
