@@ -140,3 +140,4 @@ Quer o acesso de alguma? Comenta **"EU QUERO"** no post correspondente do Instag
 | [ESSE SITE GRATIS TEM MAIS DE 10.000 PROMPTS PRONTOS PARA CHATGPT E CLAUDE](tools/esse-site-gratis-tem-mais-de-10-000-prompts-prontos-para-chatgpt-e-claude.md) | BIBLIOTECA GRATUITA DE COMANDOS DE IA | 2026-09-06 |
 | [OpenClaw](tools/openclaw.md) | AGENTE DE IA QUE RODA NO SEU PC | 2026-09-06 |
 | [GESTOR DE BILHÕES DA WALL STREET DIZ QUE A ESCOLA ESTRAGA O CÉREBRO E A IA ENSINA MELHOR](tools/gestor-de-bilhoes-da-wall-street-diz-que-a-escola-estraga-o-cerebro-e-a-ia-ensina-melhor.md) | Equipe de IAs que debatem com você | 2026-09-06 |
+| [Dreamina](tools/dreamina.md) | Do boneco de argila ao vídeo pronto | 2026-09-06 |
