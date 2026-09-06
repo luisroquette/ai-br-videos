@@ -136,3 +136,4 @@ Quer o acesso de alguma? Comenta **"EU QUERO"** no post correspondente do Instag
 | [flight simulator](tools/flight-simulator.md) | QUATRO IAs DE PONTO, UM SIMULADOR DE VOO | 2026-09-06 |
 | [Open WebUI](tools/open-webui.md) | Um painel unico para todas as suas IAs | 2026-09-06 |
 | [GPT-6 Astra](tools/gpt-6-astra-20260906.md) | A IA QUE FAZ DIAGNÓSTICO COMO MÉDICO | 2026-09-06 |
+| [Claude Code](tools/claude-code-20260906.md) | A aula dos engenheiros que criaram a IA | 2026-09-06 |
