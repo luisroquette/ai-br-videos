@@ -134,3 +134,4 @@ Quer o acesso de alguma? Comenta **"EU QUERO"** no post correspondente do Instag
 | [Kimi K3](tools/kimi-k3-20260906.md) | Agentes de IA que executam tarefas sozinhos | 2026-09-06 |
 | [O IPO DA RIVAL DO CHATGPT VAI VALER 2 TRILHOES E PODE QUEBRAR O S&P 500](tools/o-ipo-da-rival-do-chatgpt-vai-valer-2-trilhoes-e-pode-quebrar-o-s-p-500.md) | A BOLHA DA IA EXPLICADA EM 1 MINUTO | 2026-09-06 |
 | [flight simulator](tools/flight-simulator.md) | QUATRO IAs DE PONTO, UM SIMULADOR DE VOO | 2026-09-06 |
+| [Open WebUI](tools/open-webui.md) | Um painel unico para todas as suas IAs | 2026-09-06 |
