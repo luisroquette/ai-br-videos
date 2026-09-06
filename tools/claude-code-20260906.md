@@ -1,17 +1,17 @@
 # Claude Code
 
-O Claude Code é a ferramenta de IA da Anthropic que, segundo o vídeo, foi usada para construir agentes de produção que executam workflows financeiros de ponta a ponta. O tweet mostra modelos DCF, LBO, relatórios de equity research, análise de fusões e checagens KYC sendo gerados automaticamente, com conexões diretas a Bloomberg, FactSet, S&P Global, Morningstar e PitchBook. Os agentes produzem planilhas Excel com fórmulas vivas e tabelas de sensibilidade, além de documentos como CIMs, memos de comitê de investimento e relatórios de lucros. Não é um chatbot que resume notícias: são agentes que assumem tarefas de due diligence, conciliação contábil e validação de NAV.
+O Claude Code é o agente de codificação da Anthropic. A equipe que construiu a ferramenta publicou um vídeo de 20 minutos mostrando como automatizam o fluxo de engenharia inteiro. O vídeo é gratuito e direto: eles demonstram o processo real, não uma demo ensaiada.
 
 ## Por que importa
 
-Esse tipo de automação é o que bancos e fundos pagam caro para ter. Com o código aberto no GitHub, qualquer dev pode estudar como esses fluxos são construídos — e adaptá-los para outros domínios. A barreira de entrada para ferramentas de análise financeira de nível institucional caiu drasticamente.
+A maioria dos tutoriais de IA para programação é superficial. Esse não é — são as pessoas que escreveram o código do Claude Code mostrando o fluxo que usam no dia a dia. Eles resolvem um ciclo completo em menos de 30 minutos. Se você já usa IA para codar, ver como a própria equipe da Anthropic trabalha vale mais do que um curso pago de vibe coding.
 
 ## Como começar
 
-O tweet afirma que tudo está no GitHub e é gratuito. O vídeo mostra o Claude Code executando os agentes localmente. Para reproduzir, o caminho é localizar o repositório no GitHub da Anthropic, instalar o Claude Code e seguir os exemplos exibidos no vídeo. Detalhes de configuração e credenciais dependem das fontes de dados que você for usar.
+Assista ao vídeo de 20 minutos. Depois, abra o Claude Code e tente replicar o fluxo em um projeto seu — comece pequeno, com uma tarefa concreta. O objetivo não é copiar o processo deles, mas entender o padrão: como quebram o trabalho, como dão contexto ao agente e como revisam o resultado. Ajuste para o seu contexto e meça o tempo gasto antes e depois.
 
 ---
 
-**Fonte original:** https://x.com/cyrilXBT/status/2096506688429805878
+**Fonte original:** https://x.com/Grow_withAI/status/2096584495415820756
 
 **Veja o vídeo:** [@ai_br_videos no Instagram](https://instagram.com/ai_br_videos)
