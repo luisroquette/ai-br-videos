@@ -145,3 +145,4 @@ Quer o acesso de alguma? Comenta **"EU QUERO"** no post correspondente do Instag
 | [GPT-6 Astra](tools/gpt-6-astra-20260906.md) | IA que cria jogos 3D inteiros sozinha | 2026-09-06 |
 | [GPT-6 Astra](tools/gpt-6-astra-20260906.md) | A IA QUE PROJETA ROBOS DE VERDADE | 2026-09-06 |
 | [GPT-6 Astra](tools/gpt-6-astra-20260906.md) | CEREBRO DIGITAL CONTROLA INSETO NO JOGO | 2026-09-06 |
+| [WebMCP](tools/webmcp.md) | A loja online que se refaz a cada pedido seu | 2026-09-07 |
