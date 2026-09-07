@@ -147,3 +147,4 @@ Quer o acesso de alguma? Comenta **"EU QUERO"** no post correspondente do Instag
 | [GPT-6 Astra](tools/gpt-6-astra-20260906.md) | CEREBRO DIGITAL CONTROLA INSETO NO JOGO | 2026-09-06 |
 | [WebMCP](tools/webmcp.md) | A loja online que se refaz a cada pedido seu | 2026-09-07 |
 | [ARTEMIS](tools/artemis.md) | IA QUE AUTOMATIZA O ANDROID | 2026-09-07 |
+| [Higgsfield](tools/higgsfield.md) | TRANSMISSAO GERADA POR IA EM TEMPO REAL | 2026-09-07 |
