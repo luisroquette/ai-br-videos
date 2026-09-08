@@ -158,3 +158,4 @@ Quer o acesso de alguma? Comenta **"EU QUERO"** no post correspondente do Instag
 | [langchain](tools/langchain.md) | Memória persistente para agentes de IA | 2026-09-08 |
 | [Zambo](tools/zambo.md) | Verificação para agentes autônomos | 2026-09-08 |
 | [AGENTES DE IA JA SUBSTITUEM MILHARES DE FUNCIONARIOS E 2 EMPRESAS VAO LUCRAR COM ISSO](tools/agentes-de-ia-ja-substituem-milhares-de-funcionarios-e-2-empresas-vao-lucrar-com-isso.md) | O CHIP QUE FAZ A IA GUARDAR MEMORIA | 2026-09-08 |
+| [Muse](tools/muse.md) | O agente pessoal de IA da Meta | 2026-09-08 |
