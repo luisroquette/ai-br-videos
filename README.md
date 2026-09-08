@@ -149,3 +149,4 @@ Quer o acesso de alguma? Comenta **"EU QUERO"** no post correspondente do Instag
 | [ARTEMIS](tools/artemis.md) | IA QUE AUTOMATIZA O ANDROID | 2026-09-07 |
 | [Higgsfield](tools/higgsfield.md) | TRANSMISSAO GERADA POR IA EM TEMPO REAL | 2026-09-07 |
 | [Google Gemini](tools/google-gemini.md) | IA com viés religioso exposto | 2026-09-07 |
+| [GPT-6 Astra Pro](tools/gpt-6-astra-pro.md) | IA que constrói simuladores sozinha | 2026-09-08 |
