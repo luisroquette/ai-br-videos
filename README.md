@@ -154,3 +154,4 @@ Quer o acesso de alguma? Comenta **"EU QUERO"** no post correspondente do Instag
 | [COMO TRANSFORMAR QUALQUER CODIGO DO GITHUB EM UM PROMPT PRONTO PARA COPIAR](tools/como-transformar-qualquer-codigo-do-github-em-um-prompt-pronto-para-copiar.md) | Engenharia reversa de repositórios via IA | 2026-09-08 |
 | [GPT-6 Astra](tools/gpt-6-astra-20260908.md) | Quando a IA aprende linguagem de cinema | 2026-09-08 |
 | [higgsfield](tools/higgsfield-20260908.md) | LEILÃO AO VIVO QUE GERA CENAS COM IA | 2026-09-08 |
+| [ID-V2V](tools/id-v2v.md) | Transforma o estilo sem mudar a cena | 2026-09-08 |
