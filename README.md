@@ -155,3 +155,4 @@ Quer o acesso de alguma? Comenta **"EU QUERO"** no post correspondente do Instag
 | [GPT-6 Astra](tools/gpt-6-astra-20260908.md) | Quando a IA aprende linguagem de cinema | 2026-09-08 |
 | [higgsfield](tools/higgsfield-20260908.md) | LEILÃO AO VIVO QUE GERA CENAS COM IA | 2026-09-08 |
 | [ID-V2V](tools/id-v2v.md) | Transforma o estilo sem mudar a cena | 2026-09-08 |
+| [langchain](tools/langchain.md) | Memória persistente para agentes de IA | 2026-09-08 |
