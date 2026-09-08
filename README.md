@@ -160,3 +160,4 @@ Quer o acesso de alguma? Comenta **"EU QUERO"** no post correspondente do Instag
 | [AGENTES DE IA JA SUBSTITUEM MILHARES DE FUNCIONARIOS E 2 EMPRESAS VAO LUCRAR COM ISSO](tools/agentes-de-ia-ja-substituem-milhares-de-funcionarios-e-2-empresas-vao-lucrar-com-isso.md) | O CHIP QUE FAZ A IA GUARDAR MEMORIA | 2026-09-08 |
 | [Muse](tools/muse.md) | O agente pessoal de IA da Meta | 2026-09-08 |
 | [AlphaGenome Atlas](tools/alphagenome-atlas.md) | Banco de dados aberto do genoma humano | 2026-09-08 |
+| [chatgpt image 2.5](tools/chatgpt-image-2-5.md) | IA QUE TRANSFORMA TEXTO EM IMAGENS | 2026-09-08 |
