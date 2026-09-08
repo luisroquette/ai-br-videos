@@ -151,3 +151,4 @@ Quer o acesso de alguma? Comenta **"EU QUERO"** no post correspondente do Instag
 | [Google Gemini](tools/google-gemini.md) | IA com viés religioso exposto | 2026-09-07 |
 | [GPT-6 Astra Pro](tools/gpt-6-astra-pro.md) | IA que constrói simuladores sozinha | 2026-09-08 |
 | [GPT-6 Astra](tools/gpt-6-astra-20260908.md) | Live eterna controlada por IA generativa | 2026-09-08 |
+| [COMO TRANSFORMAR QUALQUER CODIGO DO GITHUB EM UM PROMPT PRONTO PARA COPIAR](tools/como-transformar-qualquer-codigo-do-github-em-um-prompt-pronto-para-copiar.md) | Engenharia reversa de repositórios via IA | 2026-09-08 |
