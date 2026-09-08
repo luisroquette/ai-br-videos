@@ -150,3 +150,4 @@ Quer o acesso de alguma? Comenta **"EU QUERO"** no post correspondente do Instag
 | [Higgsfield](tools/higgsfield.md) | TRANSMISSAO GERADA POR IA EM TEMPO REAL | 2026-09-07 |
 | [Google Gemini](tools/google-gemini.md) | IA com viés religioso exposto | 2026-09-07 |
 | [GPT-6 Astra Pro](tools/gpt-6-astra-pro.md) | IA que constrói simuladores sozinha | 2026-09-08 |
+| [GPT-6 Astra](tools/gpt-6-astra-20260908.md) | Live eterna controlada por IA generativa | 2026-09-08 |
