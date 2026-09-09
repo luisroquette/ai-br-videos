@@ -164,3 +164,4 @@ Quer o acesso de alguma? Comenta **"EU QUERO"** no post correspondente do Instag
 | [Claude Code](tools/claude-code-20260909.md) | A IA QUE ESCREVE CODIGO NO SEU TERMINAL | 2026-09-09 |
 | [Grok Bot](tools/grok-bot-20260909.md) | O AGENTE DE IA QUE NAVEGA POR VOCE | 2026-09-09 |
 | [Depost AI 2](tools/depost-ai-2.md) | TIME DE IA PARA CONTEÚDO NO LINKEDIN | 2026-09-09 |
+| [Artemis](tools/artemis-20260909.md) | AGENTE DE IA QUE OPERA SEU CELULAR | 2026-09-09 |
