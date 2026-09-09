@@ -165,3 +165,4 @@ Quer o acesso de alguma? Comenta **"EU QUERO"** no post correspondente do Instag
 | [Grok Bot](tools/grok-bot-20260909.md) | O AGENTE DE IA QUE NAVEGA POR VOCE | 2026-09-09 |
 | [Depost AI 2](tools/depost-ai-2.md) | TIME DE IA PARA CONTEÚDO NO LINKEDIN | 2026-09-09 |
 | [Artemis](tools/artemis-20260909.md) | AGENTE DE IA QUE OPERA SEU CELULAR | 2026-09-09 |
+| [Artemis](tools/artemis-20260909.md) | Agente de IA que opera seu Android | 2026-09-09 |
