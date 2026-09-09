@@ -171,3 +171,4 @@ Quer o acesso de alguma? Comenta **"EU QUERO"** no post correspondente do Instag
 | [ALGUEM LANCOU DE GRACA UM CHATGPT QUE CONTROLA SEU COMPUTADOR E TRABALHA SOZINHO](tools/alguem-lancou-de-graca-um-chatgpt-que-controla-seu-computador-e-trabalha-sozinho.md) | Ferramenta que roda agentes no seu PC | 2026-09-09 |
 | [GPT-Image-2.5](tools/gpt-image-2-5.md) | IA que edita fotos sem destruir o resto | 2026-09-09 |
 | [Muse](tools/muse-20260909.md) | IA pessoal que executa tarefas por voce | 2026-09-09 |
+| [EXECUTIVO DA ANTHROPIC ADMITE 10% DE CHANCE DA IA ELIMINAR TODA A HUMANIDADE](tools/executivo-da-anthropic-admite-10-de-chance-da-ia-eliminar-toda-a-humanidade.md) | PLANO DE 5 PONTOS PRA REGULAR A IA | 2026-09-09 |
