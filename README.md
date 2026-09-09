@@ -166,3 +166,4 @@ Quer o acesso de alguma? Comenta **"EU QUERO"** no post correspondente do Instag
 | [Depost AI 2](tools/depost-ai-2.md) | TIME DE IA PARA CONTEÚDO NO LINKEDIN | 2026-09-09 |
 | [Artemis](tools/artemis-20260909.md) | AGENTE DE IA QUE OPERA SEU CELULAR | 2026-09-09 |
 | [Artemis](tools/artemis-20260909.md) | Agente de IA que opera seu Android | 2026-09-09 |
+| [PARE DE OTIMIZAR PROMPTS: O JEITO CERTO DE FAZER A IA TRABALHAR SOZINHA](tools/pare-de-otimizar-prompts-o-jeito-certo-de-fazer-a-ia-trabalhar-sozinha.md) | Metodo de agentes que evolui a cada acao | 2026-09-09 |
