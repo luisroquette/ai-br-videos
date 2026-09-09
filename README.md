@@ -169,3 +169,4 @@ Quer o acesso de alguma? Comenta **"EU QUERO"** no post correspondente do Instag
 | [PARE DE OTIMIZAR PROMPTS: O JEITO CERTO DE FAZER A IA TRABALHAR SOZINHA](tools/pare-de-otimizar-prompts-o-jeito-certo-de-fazer-a-ia-trabalhar-sozinha.md) | Metodo de agentes que evolui a cada acao | 2026-09-09 |
 | [Muse](tools/muse-20260909.md) | O agente que age por você no celular | 2026-09-09 |
 | [ALGUEM LANCOU DE GRACA UM CHATGPT QUE CONTROLA SEU COMPUTADOR E TRABALHA SOZINHO](tools/alguem-lancou-de-graca-um-chatgpt-que-controla-seu-computador-e-trabalha-sozinho.md) | Ferramenta que roda agentes no seu PC | 2026-09-09 |
+| [GPT-Image-2.5](tools/gpt-image-2-5.md) | IA que edita fotos sem destruir o resto | 2026-09-09 |
