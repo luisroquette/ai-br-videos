@@ -161,3 +161,4 @@ Quer o acesso de alguma? Comenta **"EU QUERO"** no post correspondente do Instag
 | [Muse](tools/muse.md) | O agente pessoal de IA da Meta | 2026-09-08 |
 | [AlphaGenome Atlas](tools/alphagenome-atlas.md) | Banco de dados aberto do genoma humano | 2026-09-08 |
 | [chatgpt image 2.5](tools/chatgpt-image-2-5.md) | IA QUE TRANSFORMA TEXTO EM IMAGENS | 2026-09-08 |
+| [Claude Code](tools/claude-code-20260909.md) | A IA QUE ESCREVE CODIGO NO SEU TERMINAL | 2026-09-09 |
