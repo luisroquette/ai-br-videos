@@ -163,3 +163,4 @@ Quer o acesso de alguma? Comenta **"EU QUERO"** no post correspondente do Instag
 | [chatgpt image 2.5](tools/chatgpt-image-2-5.md) | IA QUE TRANSFORMA TEXTO EM IMAGENS | 2026-09-08 |
 | [Claude Code](tools/claude-code-20260909.md) | A IA QUE ESCREVE CODIGO NO SEU TERMINAL | 2026-09-09 |
 | [Grok Bot](tools/grok-bot-20260909.md) | O AGENTE DE IA QUE NAVEGA POR VOCE | 2026-09-09 |
+| [Depost AI 2](tools/depost-ai-2.md) | TIME DE IA PARA CONTEÚDO NO LINKEDIN | 2026-09-09 |
