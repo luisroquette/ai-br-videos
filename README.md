@@ -174,3 +174,4 @@ Quer o acesso de alguma? Comenta **"EU QUERO"** no post correspondente do Instag
 | [EXECUTIVO DA ANTHROPIC ADMITE 10% DE CHANCE DA IA ELIMINAR TODA A HUMANIDADE](tools/executivo-da-anthropic-admite-10-de-chance-da-ia-eliminar-toda-a-humanidade.md) | PLANO DE 5 PONTOS PRA REGULAR A IA | 2026-09-09 |
 | [AutoResearchExam](tools/autoresearchexam.md) | Benchmark que testa IAs como cientistas | 2026-09-09 |
 | [GPT-6 Astra](tools/gpt-6-astra-20260910.md) | Como a nova IA da OpenAI quer ser usada | 2026-09-10 |
+| [EX-PESQUISADOR DA ANTHROPIC: SABEMOS CONTROLAR BOMBAS NUCLEARES, MAS NÃO A IA](tools/ex-pesquisador-da-anthropic-sabemos-controlar-bombas-nucleares-mas-nao-a-ia.md) | O ALERTA DE QUEM VIU POR DENTRO | 2026-09-10 |
