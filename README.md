@@ -176,3 +176,4 @@ Quer o acesso de alguma? Comenta **"EU QUERO"** no post correspondente do Instag
 | [GPT-6 Astra](tools/gpt-6-astra-20260910.md) | Como a nova IA da OpenAI quer ser usada | 2026-09-10 |
 | [EX-PESQUISADOR DA ANTHROPIC: SABEMOS CONTROLAR BOMBAS NUCLEARES, MAS NÃO A IA](tools/ex-pesquisador-da-anthropic-sabemos-controlar-bombas-nucleares-mas-nao-a-ia.md) | O ALERTA DE QUEM VIU POR DENTRO | 2026-09-10 |
 | [PADRAO DA IA PODE MATAR TODOS OS HUMANOS, DIZ GEOFFREY HINTON](tools/padrao-da-ia-pode-matar-todos-os-humanos-diz-geoffrey-hinton.md) | O padrinho da IA em alerta maximo | 2026-09-10 |
+| [Spec Kit](tools/spec-kit.md) | O novo padrão pra programar com IA | 2026-09-10 |
