@@ -185,3 +185,4 @@ Quer o acesso de alguma? Comenta **"EU QUERO"** no post correspondente do Instag
 | [Agents API](tools/agents-api.md) | A base que faz seu agente funcionar | 2026-09-11 |
 | [Claude Code](tools/claude-code-20260911.md) | A atualização de segurança do terminal com IA | 2026-09-11 |
 | [DeepSeek V4.1 Flash](tools/deepseek-v4-1-flash.md) | Geração de imagens por 3 centavos | 2026-09-11 |
+| [SPACEX FECHA CONTRATO DE US$ 1,1 BILHÃO POR MÊS NA CORRIDA PELOS US$ 100 BILHÕES](tools/spacex-fecha-contrato-de-us-1-1-bilhao-por-mes-na-corrida-pelos-us-100-bilhoes.md) | A infraestrutura que roda a IA | 2026-09-11 |
