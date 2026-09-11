@@ -189,3 +189,4 @@ Quer o acesso de alguma? Comenta **"EU QUERO"** no post correspondente do Instag
 | [7 FERRAMENTAS DE IA QUE IMPEDEM SEU APP DE SER INVADIDO ANTES DO LANCAMENTO](tools/7-ferramentas-de-ia-que-impedem-seu-app-de-ser-invadido-antes-do-lancamento.md) | FERRAMENTAS DE IA CONTRA HACKERS | 2026-09-11 |
 | [memanto](tools/memanto.md) | Memória persistente para agentes de IA | 2026-09-11 |
 | [Trail](tools/trail.md) | IA que aprende com seus documentos | 2026-09-11 |
+| [Buzzy](tools/buzzy.md) | Gerador de imagens com IA liberado | 2026-09-11 |
