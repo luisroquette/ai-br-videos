@@ -183,3 +183,4 @@ Quer o acesso de alguma? Comenta **"EU QUERO"** no post correspondente do Instag
 | [ChatGPT for Financial Services](tools/chatgpt-for-financial-services.md) | IA treinada com dados financeiros | 2026-09-11 |
 | [Projects](tools/projects.md) | O AGENTE QUE ORQUESTRA OUTROS AGENTES | 2026-09-11 |
 | [Agents API](tools/agents-api.md) | A base que faz seu agente funcionar | 2026-09-11 |
+| [Claude Code](tools/claude-code-20260911.md) | A atualização de segurança do terminal com IA | 2026-09-11 |
