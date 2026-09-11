@@ -191,3 +191,4 @@ Quer o acesso de alguma? Comenta **"EU QUERO"** no post correspondente do Instag
 | [Trail](tools/trail.md) | IA que aprende com seus documentos | 2026-09-11 |
 | [Buzzy](tools/buzzy.md) | Gerador de imagens com IA liberado | 2026-09-11 |
 | [ChatGPT](tools/chatgpt.md) | IA QUE DESENHA E ACHA QUEM FABRICA | 2026-09-11 |
+| [Floot](tools/floot.md) | Crie apps completos só conversando com IA | 2026-09-11 |
