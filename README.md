@@ -182,3 +182,4 @@ Quer o acesso de alguma? Comenta **"EU QUERO"** no post correspondente do Instag
 | [Phoenix-4.5](tools/phoenix-4-5.md) | Avatares de IA que conversam ao vivo | 2026-09-11 |
 | [ChatGPT for Financial Services](tools/chatgpt-for-financial-services.md) | IA treinada com dados financeiros | 2026-09-11 |
 | [Projects](tools/projects.md) | O AGENTE QUE ORQUESTRA OUTROS AGENTES | 2026-09-11 |
+| [Agents API](tools/agents-api.md) | A base que faz seu agente funcionar | 2026-09-11 |
