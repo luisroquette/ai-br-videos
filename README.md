@@ -184,3 +184,4 @@ Quer o acesso de alguma? Comenta **"EU QUERO"** no post correspondente do Instag
 | [Projects](tools/projects.md) | O AGENTE QUE ORQUESTRA OUTROS AGENTES | 2026-09-11 |
 | [Agents API](tools/agents-api.md) | A base que faz seu agente funcionar | 2026-09-11 |
 | [Claude Code](tools/claude-code-20260911.md) | A atualização de segurança do terminal com IA | 2026-09-11 |
+| [DeepSeek V4.1 Flash](tools/deepseek-v4-1-flash.md) | Geração de imagens por 3 centavos | 2026-09-11 |
