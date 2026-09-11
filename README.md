@@ -195,3 +195,4 @@ Quer o acesso de alguma? Comenta **"EU QUERO"** no post correspondente do Instag
 | [MiniCPM5-2B](tools/minicpm5-2b.md) | Modelo aberto que programa offline | 2026-09-11 |
 | [DEEPSEEK É ABERTA PRA TODO MUNDO, MAS A OPENAI BLOQUEIA PAÍSES INTEIROS](tools/deepseek-e-aberta-pra-todo-mundo-mas-a-openai-bloqueia-paises-inteiros.md) | POR QUE MODELOS ABERTOS ASSUSTAM OS EUA | 2026-09-11 |
 | [Grok Bot](tools/grok-bot-20260911.md) | IA QUE EXECUTA TAREFAS NO SEU TRABALHO | 2026-09-11 |
+| [PsAIch](tools/psaich.md) | ESTUDO TESTA A SAUDE MENTAL DAS IAS | 2026-09-11 |
