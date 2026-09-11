@@ -188,3 +188,4 @@ Quer o acesso de alguma? Comenta **"EU QUERO"** no post correspondente do Instag
 | [SPACEX FECHA CONTRATO DE US$ 1,1 BILHÃO POR MÊS NA CORRIDA PELOS US$ 100 BILHÕES](tools/spacex-fecha-contrato-de-us-1-1-bilhao-por-mes-na-corrida-pelos-us-100-bilhoes.md) | A infraestrutura que roda a IA | 2026-09-11 |
 | [7 FERRAMENTAS DE IA QUE IMPEDEM SEU APP DE SER INVADIDO ANTES DO LANCAMENTO](tools/7-ferramentas-de-ia-que-impedem-seu-app-de-ser-invadido-antes-do-lancamento.md) | FERRAMENTAS DE IA CONTRA HACKERS | 2026-09-11 |
 | [memanto](tools/memanto.md) | Memória persistente para agentes de IA | 2026-09-11 |
+| [Trail](tools/trail.md) | IA que aprende com seus documentos | 2026-09-11 |
