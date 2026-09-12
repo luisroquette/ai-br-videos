@@ -199,3 +199,4 @@ Quer o acesso de alguma? Comenta **"EU QUERO"** no post correspondente do Instag
 | [GPT-Live-1](tools/gpt-live-1.md) | Assistente de voz em tempo real | 2026-09-12 |
 | [LLM Fit](tools/llm-fit.md) | O COMANDO QUE RODA IA LOCAL DE GRAÇA | 2026-09-12 |
 | [Fusion](tools/fusion.md) | Agente que troca de modelo conforme a tarefa | 2026-09-12 |
+| [Claude](tools/claude-20260912.md) | COMANDOS SECRETOS DE IA NO DIA A DIA | 2026-09-12 |
