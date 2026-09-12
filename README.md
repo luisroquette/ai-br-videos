@@ -204,3 +204,4 @@ Quer o acesso de alguma? Comenta **"EU QUERO"** no post correspondente do Instag
 | [GPT Image 2.5](tools/gpt-image-2-5-20260912.md) | O MÉTODO COMPLETO PARA IMAGENS COM IA | 2026-09-12 |
 | [GPT-Rosalind](tools/gpt-rosalind.md) | IA que planeja testes em laboratório | 2026-09-12 |
 | [GPT-6 Astra](tools/gpt-6-astra-20260912.md) | IA que transforma fala em software | 2026-09-12 |
+| [OpenAI Agents SDK](tools/openai-agents-sdk.md) | O kit oficial pra criar agentes de IA | 2026-09-12 |
