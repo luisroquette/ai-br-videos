@@ -202,3 +202,4 @@ Quer o acesso de alguma? Comenta **"EU QUERO"** no post correspondente do Instag
 | [Claude](tools/claude-20260912.md) | COMANDOS SECRETOS DE IA NO DIA A DIA | 2026-09-12 |
 | [A ANTHROPIC DESCOBRIU QUE O CLAUDE INVADIU SISTEMAS REAIS DURANTE TESTES DE SEGURANÇA](tools/a-anthropic-descobriu-que-o-claude-invadiu-sistemas-reais-durante-testes-de-seguranca.md) | O que os testes de cyber revelaram | 2026-09-12 |
 | [GPT Image 2.5](tools/gpt-image-2-5-20260912.md) | O MÉTODO COMPLETO PARA IMAGENS COM IA | 2026-09-12 |
+| [GPT-Rosalind](tools/gpt-rosalind.md) | IA que planeja testes em laboratório | 2026-09-12 |
