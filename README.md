@@ -205,3 +205,4 @@ Quer o acesso de alguma? Comenta **"EU QUERO"** no post correspondente do Instag
 | [GPT-Rosalind](tools/gpt-rosalind.md) | IA que planeja testes em laboratório | 2026-09-12 |
 | [GPT-6 Astra](tools/gpt-6-astra-20260912.md) | IA que transforma fala em software | 2026-09-12 |
 | [OpenAI Agents SDK](tools/openai-agents-sdk.md) | O kit oficial pra criar agentes de IA | 2026-09-12 |
+| [Claude Opus 5](tools/claude-opus-5-20260912.md) | O MODELO TOP DE LINHA DA ANTHROPIC | 2026-09-12 |
