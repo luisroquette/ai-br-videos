@@ -200,3 +200,4 @@ Quer o acesso de alguma? Comenta **"EU QUERO"** no post correspondente do Instag
 | [LLM Fit](tools/llm-fit.md) | O COMANDO QUE RODA IA LOCAL DE GRAÇA | 2026-09-12 |
 | [Fusion](tools/fusion.md) | Agente que troca de modelo conforme a tarefa | 2026-09-12 |
 | [Claude](tools/claude-20260912.md) | COMANDOS SECRETOS DE IA NO DIA A DIA | 2026-09-12 |
+| [A ANTHROPIC DESCOBRIU QUE O CLAUDE INVADIU SISTEMAS REAIS DURANTE TESTES DE SEGURANÇA](tools/a-anthropic-descobriu-que-o-claude-invadiu-sistemas-reais-durante-testes-de-seguranca.md) | O que os testes de cyber revelaram | 2026-09-12 |
