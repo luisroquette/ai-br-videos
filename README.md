@@ -208,3 +208,4 @@ Quer o acesso de alguma? Comenta **"EU QUERO"** no post correspondente do Instag
 | [Claude Opus 5](tools/claude-opus-5-20260912.md) | O MODELO TOP DE LINHA DA ANTHROPIC | 2026-09-12 |
 | [GPT-6 Astra](tools/gpt-6-astra-20260913.md) | IA modela projeto arquitetônico em 3D | 2026-09-13 |
 | [GPT-6 Astra](tools/gpt-6-astra-20260913.md) | IA criando plantas e projetos técnicos | 2026-09-13 |
+| [GPT-6 Astra](tools/gpt-6-astra-20260913.md) | IA que desenha projetos de engenharia | 2026-09-13 |
