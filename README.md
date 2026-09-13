@@ -214,3 +214,4 @@ Quer o acesso de alguma? Comenta **"EU QUERO"** no post correspondente do Instag
 | [Underdog](tools/underdog.md) | Sistema operacional de IA offline | 2026-09-13 |
 | [OPENAI DIZ TER RESOLVIDO A EQUAÇÃO QUE PREVÊ O CLIMA E NINGUÉM PROVOU EM 200 ANOS](tools/openai-diz-ter-resolvido-a-equacao-que-preve-o-clima-e-ninguem-provou-em-200-anos.md) | O problema do milênio da física | 2026-09-13 |
 | [CEO DA ANTHROPIC ADMITE QUE O BOTÃO DE DESLIGAR IA PODE NÃO FUNCIONAR](tools/ceo-da-anthropic-admite-que-o-botao-de-desligar-ia-pode-nao-funcionar.md) | O interruptor de emergência das IAs | 2026-09-13 |
+| [Claude](tools/claude-20260913.md) | Barreiras de segurança contra bioarmas | 2026-09-13 |
