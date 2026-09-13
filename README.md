@@ -212,3 +212,4 @@ Quer o acesso de alguma? Comenta **"EU QUERO"** no post correspondente do Instag
 | [Claude Code](tools/claude-code-20260913.md) | Um wiki vivo do seu conhecimento | 2026-09-13 |
 | [O CEO DA ANTHROPIC PEDIU PARA FREAR A IA. ELON MUSK CONCORDOU](tools/o-ceo-da-anthropic-pediu-para-frear-a-ia-elon-musk-concordou.md) | O PLANO DE 3 PASSOS DOS CRIADORES DE IA | 2026-09-13 |
 | [Underdog](tools/underdog.md) | Sistema operacional de IA offline | 2026-09-13 |
+| [OPENAI DIZ TER RESOLVIDO A EQUAÇÃO QUE PREVÊ O CLIMA E NINGUÉM PROVOU EM 200 ANOS](tools/openai-diz-ter-resolvido-a-equacao-que-preve-o-clima-e-ninguem-provou-em-200-anos.md) | O problema do milênio da física | 2026-09-13 |
