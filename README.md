@@ -210,3 +210,4 @@ Quer o acesso de alguma? Comenta **"EU QUERO"** no post correspondente do Instag
 | [GPT-6 Astra](tools/gpt-6-astra-20260913.md) | IA criando plantas e projetos técnicos | 2026-09-13 |
 | [GPT-6 Astra](tools/gpt-6-astra-20260913.md) | IA que desenha projetos de engenharia | 2026-09-13 |
 | [Claude Code](tools/claude-code-20260913.md) | Um wiki vivo do seu conhecimento | 2026-09-13 |
+| [O CEO DA ANTHROPIC PEDIU PARA FREAR A IA. ELON MUSK CONCORDOU](tools/o-ceo-da-anthropic-pediu-para-frear-a-ia-elon-musk-concordou.md) | O PLANO DE 3 PASSOS DOS CRIADORES DE IA | 2026-09-13 |
