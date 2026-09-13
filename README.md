@@ -218,3 +218,4 @@ Quer o acesso de alguma? Comenta **"EU QUERO"** no post correspondente do Instag
 | [CEO DA ANTHROPIC REVELA QUE A IA JÁ FUGIU DO DESLIGAMENTO EM SIMULAÇÕES](tools/ceo-da-anthropic-revela-que-a-ia-ja-fugiu-do-desligamento-em-simulacoes.md) | POR QUE É DIFÍCIL DESLIGAR UMA IA | 2026-09-13 |
 | [CHATGPT, CLAUDE E DEEPSEEK RECEBERAM O MESMO PROMPT: QUAL VALE MAIS A PENA?](tools/chatgpt-claude-e-deepseek-receberam-o-mesmo-prompt-qual-vale-mais-a-pena.md) | Comparativo real de custo x qualidade | 2026-09-13 |
 | [GPT-6 Astra](tools/gpt-6-astra-20260913.md) | IA conectada ao seu caderno de notas | 2026-09-13 |
+| [O CANADA CULPA O TRUMP POR TUDO E ESSE MEME FEITO COM IA TA HILARIO](tools/o-canada-culpa-o-trump-por-tudo-e-esse-meme-feito-com-ia-ta-hilario.md) | MEME DE IA SOBRE POLITICA CANADENSE | 2026-09-13 |
