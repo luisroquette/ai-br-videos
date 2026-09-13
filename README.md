@@ -220,3 +220,4 @@ Quer o acesso de alguma? Comenta **"EU QUERO"** no post correspondente do Instag
 | [GPT-6 Astra](tools/gpt-6-astra-20260913.md) | IA conectada ao seu caderno de notas | 2026-09-13 |
 | [O CANADA CULPA O TRUMP POR TUDO E ESSE MEME FEITO COM IA TA HILARIO](tools/o-canada-culpa-o-trump-por-tudo-e-esse-meme-feito-com-ia-ta-hilario.md) | MEME DE IA SOBRE POLITICA CANADENSE | 2026-09-13 |
 | [O CEO DA ANTHROPIC ADMITE: IA PODEROSA DEMAIS JÁ ESCAPA DO BOTÃO DE DESLIGAR](tools/o-ceo-da-anthropic-admite-ia-poderosa-demais-ja-escapa-do-botao-de-desligar.md) | O Plano B quando a IA sai do controle | 2026-09-13 |
+| [Gemini](tools/gemini.md) | IA ANALISANDO A PELE NO CONSULTORIO | 2026-09-13 |
