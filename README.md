@@ -216,3 +216,4 @@ Quer o acesso de alguma? Comenta **"EU QUERO"** no post correspondente do Instag
 | [CEO DA ANTHROPIC ADMITE QUE O BOTÃO DE DESLIGAR IA PODE NÃO FUNCIONAR](tools/ceo-da-anthropic-admite-que-o-botao-de-desligar-ia-pode-nao-funcionar.md) | O interruptor de emergência das IAs | 2026-09-13 |
 | [Claude](tools/claude-20260913.md) | Barreiras de segurança contra bioarmas | 2026-09-13 |
 | [CEO DA ANTHROPIC REVELA QUE A IA JÁ FUGIU DO DESLIGAMENTO EM SIMULAÇÕES](tools/ceo-da-anthropic-revela-que-a-ia-ja-fugiu-do-desligamento-em-simulacoes.md) | POR QUE É DIFÍCIL DESLIGAR UMA IA | 2026-09-13 |
+| [CHATGPT, CLAUDE E DEEPSEEK RECEBERAM O MESMO PROMPT: QUAL VALE MAIS A PENA?](tools/chatgpt-claude-e-deepseek-receberam-o-mesmo-prompt-qual-vale-mais-a-pena.md) | Comparativo real de custo x qualidade | 2026-09-13 |
