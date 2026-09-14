@@ -222,3 +222,4 @@ Quer o acesso de alguma? Comenta **"EU QUERO"** no post correspondente do Instag
 | [O CEO DA ANTHROPIC ADMITE: IA PODEROSA DEMAIS JÁ ESCAPA DO BOTÃO DE DESLIGAR](tools/o-ceo-da-anthropic-admite-ia-poderosa-demais-ja-escapa-do-botao-de-desligar.md) | O Plano B quando a IA sai do controle | 2026-09-13 |
 | [Gemini](tools/gemini.md) | IA ANALISANDO A PELE NO CONSULTORIO | 2026-09-13 |
 | [ANTHROPIC ESTA EM PANICO PORQUE A IA DA CHINA JA E MELHOR QUE A AMERICANA](tools/anthropic-esta-em-panico-porque-a-ia-da-china-ja-e-melhor-que-a-americana.md) | A DISPUTA GLOBAL PELA LIDERANCA DA IA | 2026-09-14 |
+| [GPT-6 Astra](tools/gpt-6-astra-20260914.md) | IA que lê a ciência inteira por você | 2026-09-14 |
