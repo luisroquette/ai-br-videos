@@ -234,3 +234,4 @@ Quer o acesso de alguma? Comenta **"EU QUERO"** no post correspondente do Instag
 | [CEO DA ANTHROPIC ADMITE QUE IA PODEROSA DEMAIS PODE DIBRLAR O BOTÃO DE DESLIGAR](tools/ceo-da-anthropic-admite-que-ia-poderosa-demais-pode-dibrlar-o-botao-de-desligar.md) | OS MECANISMOS DE SEGURANÇA DAS IAS | 2026-09-14 |
 | [Bolt Forge](tools/bolt-forge.md) | a IA que monta seu app do zero | 2026-09-14 |
 | [ChatGPT](tools/chatgpt-20260914.md) | O QUE ACONTECE COM SUAS CONVERSAS NA IA | 2026-09-14 |
+| [Cline Desktop](tools/cline-desktop.md) | App pra usar modelos de IA abertos | 2026-09-14 |
