@@ -229,3 +229,4 @@ Quer o acesso de alguma? Comenta **"EU QUERO"** no post correspondente do Instag
 | [A CHINA MANDOU O MUNDO SE ACALMAR SOBRE IA E AVISOU QUE A CORRIDA NÃO VAI FREAR](tools/a-china-mandou-o-mundo-se-acalmar-sobre-ia-e-avisou-que-a-corrida-nao-vai-frear.md) | A POSIÇÃO OFICIAL DA CHINA SOBRE IA | 2026-09-14 |
 | [CEO DA ANTHROPIC REVELA QUE ALGUEM TENTOU CRIAR ARMA BIOLOGICA COM IA](tools/ceo-da-anthropic-revela-que-alguem-tentou-criar-arma-biologica-com-ia.md) | A PROPOSTA PARA POR UM LIMITE NA IA | 2026-09-14 |
 | [ML Claw](tools/ml-claw.md) | COMO CRIAR MODELOS DE IA SOB MEDIDA | 2026-09-14 |
+| [IA CRIA MEME QUE ZOA LIBERAIS DO CANADÁ POR CULPAR TRUMP POR TUDO](tools/ia-cria-meme-que-zoa-liberais-do-canada-por-culpar-trump-por-tudo.md) | VÍDEO FEITO COM IA QUE TÁ VIRALIZANDO | 2026-09-14 |
