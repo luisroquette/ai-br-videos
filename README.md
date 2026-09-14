@@ -223,3 +223,4 @@ Quer o acesso de alguma? Comenta **"EU QUERO"** no post correspondente do Instag
 | [Gemini](tools/gemini.md) | IA ANALISANDO A PELE NO CONSULTORIO | 2026-09-13 |
 | [ANTHROPIC ESTA EM PANICO PORQUE A IA DA CHINA JA E MELHOR QUE A AMERICANA](tools/anthropic-esta-em-panico-porque-a-ia-da-china-ja-e-melhor-que-a-americana.md) | A DISPUTA GLOBAL PELA LIDERANCA DA IA | 2026-09-14 |
 | [GPT-6 Astra](tools/gpt-6-astra-20260914.md) | IA que lê a ciência inteira por você | 2026-09-14 |
+| [O GUIA COMPLETO QUE ENSINA A CRIAR SEU PRIMEIRO AGENTE DE IA DO ZERO](tools/o-guia-completo-que-ensina-a-criar-seu-primeiro-agente-de-ia-do-zero.md) | Tutorial completo do zero ao deploy | 2026-09-14 |
