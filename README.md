@@ -236,3 +236,4 @@ Quer o acesso de alguma? Comenta **"EU QUERO"** no post correspondente do Instag
 | [ChatGPT](tools/chatgpt-20260914.md) | O QUE ACONTECE COM SUAS CONVERSAS NA IA | 2026-09-14 |
 | [Cline Desktop](tools/cline-desktop.md) | App pra usar modelos de IA abertos | 2026-09-14 |
 | [O CEO DA ANTHROPIC ADMITE QUE IA PODEROSA PODE FUGIR DO BOTÃO DE DESLIGAR](tools/o-ceo-da-anthropic-admite-que-ia-poderosa-pode-fugir-do-botao-de-desligar.md) | POR QUE DESLIGAR UMA IA PODE FALHAR | 2026-09-14 |
+| [LLMagnet](tools/llmagnet.md) | COMO APARECER NAS RESPOSTAS DA IA | 2026-09-14 |
