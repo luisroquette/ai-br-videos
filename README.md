@@ -227,3 +227,4 @@ Quer o acesso de alguma? Comenta **"EU QUERO"** no post correspondente do Instag
 | [Claude](tools/claude-20260914.md) | O MODELO DE IA QUE LIDERA O MERCADO | 2026-09-14 |
 | [GPT-6 Sol](tools/gpt-6-sol.md) | Output do próximo modelo da OpenAI | 2026-09-14 |
 | [A CHINA MANDOU O MUNDO SE ACALMAR SOBRE IA E AVISOU QUE A CORRIDA NÃO VAI FREAR](tools/a-china-mandou-o-mundo-se-acalmar-sobre-ia-e-avisou-que-a-corrida-nao-vai-frear.md) | A POSIÇÃO OFICIAL DA CHINA SOBRE IA | 2026-09-14 |
+| [CEO DA ANTHROPIC REVELA QUE ALGUEM TENTOU CRIAR ARMA BIOLOGICA COM IA](tools/ceo-da-anthropic-revela-que-alguem-tentou-criar-arma-biologica-com-ia.md) | A PROPOSTA PARA POR UM LIMITE NA IA | 2026-09-14 |
