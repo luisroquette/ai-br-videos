@@ -231,3 +231,4 @@ Quer o acesso de alguma? Comenta **"EU QUERO"** no post correspondente do Instag
 | [ML Claw](tools/ml-claw.md) | COMO CRIAR MODELOS DE IA SOB MEDIDA | 2026-09-14 |
 | [IA CRIA MEME QUE ZOA LIBERAIS DO CANADÁ POR CULPAR TRUMP POR TUDO](tools/ia-cria-meme-que-zoa-liberais-do-canada-por-culpar-trump-por-tudo.md) | VÍDEO FEITO COM IA QUE TÁ VIRALIZANDO | 2026-09-14 |
 | [WeKnora](tools/weknora.md) | Base de conhecimento com IA open source | 2026-09-14 |
+| [CEO DA ANTHROPIC ADMITE QUE IA PODEROSA DEMAIS PODE DIBRLAR O BOTÃO DE DESLIGAR](tools/ceo-da-anthropic-admite-que-ia-poderosa-demais-pode-dibrlar-o-botao-de-desligar.md) | OS MECANISMOS DE SEGURANÇA DAS IAS | 2026-09-14 |
