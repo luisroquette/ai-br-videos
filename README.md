@@ -221,3 +221,4 @@ Quer o acesso de alguma? Comenta **"EU QUERO"** no post correspondente do Instag
 | [O CANADA CULPA O TRUMP POR TUDO E ESSE MEME FEITO COM IA TA HILARIO](tools/o-canada-culpa-o-trump-por-tudo-e-esse-meme-feito-com-ia-ta-hilario.md) | MEME DE IA SOBRE POLITICA CANADENSE | 2026-09-13 |
 | [O CEO DA ANTHROPIC ADMITE: IA PODEROSA DEMAIS JÁ ESCAPA DO BOTÃO DE DESLIGAR](tools/o-ceo-da-anthropic-admite-ia-poderosa-demais-ja-escapa-do-botao-de-desligar.md) | O Plano B quando a IA sai do controle | 2026-09-13 |
 | [Gemini](tools/gemini.md) | IA ANALISANDO A PELE NO CONSULTORIO | 2026-09-13 |
+| [ANTHROPIC ESTA EM PANICO PORQUE A IA DA CHINA JA E MELHOR QUE A AMERICANA](tools/anthropic-esta-em-panico-porque-a-ia-da-china-ja-e-melhor-que-a-americana.md) | A DISPUTA GLOBAL PELA LIDERANCA DA IA | 2026-09-14 |
