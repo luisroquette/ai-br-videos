@@ -226,3 +226,4 @@ Quer o acesso de alguma? Comenta **"EU QUERO"** no post correspondente do Instag
 | [O GUIA COMPLETO QUE ENSINA A CRIAR SEU PRIMEIRO AGENTE DE IA DO ZERO](tools/o-guia-completo-que-ensina-a-criar-seu-primeiro-agente-de-ia-do-zero.md) | Tutorial completo do zero ao deploy | 2026-09-14 |
 | [Claude](tools/claude-20260914.md) | O MODELO DE IA QUE LIDERA O MERCADO | 2026-09-14 |
 | [GPT-6 Sol](tools/gpt-6-sol.md) | Output do próximo modelo da OpenAI | 2026-09-14 |
+| [A CHINA MANDOU O MUNDO SE ACALMAR SOBRE IA E AVISOU QUE A CORRIDA NÃO VAI FREAR](tools/a-china-mandou-o-mundo-se-acalmar-sobre-ia-e-avisou-que-a-corrida-nao-vai-frear.md) | A POSIÇÃO OFICIAL DA CHINA SOBRE IA | 2026-09-14 |
