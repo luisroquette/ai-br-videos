@@ -238,3 +238,4 @@ Quer o acesso de alguma? Comenta **"EU QUERO"** no post correspondente do Instag
 | [O CEO DA ANTHROPIC ADMITE QUE IA PODEROSA PODE FUGIR DO BOTÃO DE DESLIGAR](tools/o-ceo-da-anthropic-admite-que-ia-poderosa-pode-fugir-do-botao-de-desligar.md) | POR QUE DESLIGAR UMA IA PODE FALHAR | 2026-09-14 |
 | [LLMagnet](tools/llmagnet.md) | COMO APARECER NAS RESPOSTAS DA IA | 2026-09-14 |
 | [ANTHROPIC REVELOU QUE ALGUEM TENTOU USAR IA PARA DEIXAR VIRUS MAIS INFECCIOSOS](tools/anthropic-revelou-que-alguem-tentou-usar-ia-para-deixar-virus-mais-infecciosos.md) | O ALERTA DO CEO SOBRE BIOTERRORISMO | 2026-09-14 |
+| [Cline Desktop](tools/cline-desktop-20260915.md) | O app que faz a IA programar de graça | 2026-09-15 |
