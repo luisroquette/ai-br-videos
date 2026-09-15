@@ -255,3 +255,4 @@ Quer o acesso de alguma? Comenta **"EU QUERO"** no post correspondente do Instag
 | [fomo app](tools/fomo-app.md) | onde testar todas as IAs pagando por uso | 2026-09-15 |
 | [A FERRAMENTA QUE CRIA APPS INTEIROS AGORA DEIXA VOCÊ ESCOLHER ENTRE GPT, CLAUDE E GROK](tools/a-ferramenta-que-cria-apps-inteiros-agora-deixa-voce-escolher-entre-gpt-claude-e-grok.md) | O construtor de apps com IA da Vercel | 2026-09-15 |
 | [ADVOGADO DE TRUMP ACUSA DEMOCRATAS DE USAREM IA PARA INFLUENCIAR ELEIÇÃO](tools/advogado-de-trump-acusa-democratas-de-usarem-ia-para-influenciar-eleicao.md) | COMO POLÍTICA PODE MUDAR SEU CHATGPT | 2026-09-15 |
+| [Neon](tools/neon.md) | IA TREINADA POR EXPERIMENTOS REAIS | 2026-09-15 |
