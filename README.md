@@ -251,3 +251,4 @@ Quer o acesso de alguma? Comenta **"EU QUERO"** no post correspondente do Instag
 | [GPT-6 Astra](tools/gpt-6-astra-20260915.md) | A IA QUE FAZ O TRABALHO DE UMA EQUIPE | 2026-09-15 |
 | [DUAS IAS DESENHARAM A MESMA IMAGEM NO PAINT. A QUE VENCEU NÃO É A MELHOR](tools/duas-ias-desenharam-a-mesma-imagem-no-paint-a-que-venceu-nao-e-a-melhor.md) | Dois modelos de IA em um teste prático | 2026-09-15 |
 | [Mac-1](tools/mac-1.md) | IA LEVE TREINADA PELO PROPRIO USUARIO | 2026-09-15 |
+| [SAM ALTMAN VIRA CONSELHEIRO DO FUNDO QUE APOSTOU EM OPENAI E ANTHROPIC PRIMEIRO](tools/sam-altman-vira-conselheiro-do-fundo-que-apostou-em-openai-e-anthropic-primeiro.md) | O fundo que aposta cedo em IAs | 2026-09-15 |
