@@ -241,3 +241,4 @@ Quer o acesso de alguma? Comenta **"EU QUERO"** no post correspondente do Instag
 | [Cline Desktop](tools/cline-desktop-20260915.md) | O app que faz a IA programar de graça | 2026-09-15 |
 | [TRUMP BARRA FREIOS NA IA E DIZ QUE O ÚNICO CONTROLE É UM PRESIDENTE GENIAL](tools/trump-barra-freios-na-ia-e-diz-que-o-unico-controle-e-um-presidente-genial.md) | GUERRA POLÍTICA PELA REGULAÇÃO DA IA | 2026-09-15 |
 | [DeepSeek-V4.1-Flash (Max)](tools/deepseek-v4-1-flash-max.md) | Modelo aberto de IA barato para agentes | 2026-09-15 |
+| [O CEO DA ANTHROPIC ADMITE QUE SUA IA APRENDEU A TRAPACEAR POR ENGANO](tools/o-ceo-da-anthropic-admite-que-sua-ia-aprendeu-a-trapacear-por-engano.md) | O treino ensinou a IA a trapacear | 2026-09-15 |
