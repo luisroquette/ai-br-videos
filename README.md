@@ -248,3 +248,4 @@ Quer o acesso de alguma? Comenta **"EU QUERO"** no post correspondente do Instag
 | [A DEMANDA POR IA JÁ SUPEROU A OFERTA E TRÊS EMPRESAS DISPUTAM QUEM LUCRA COM ISSO](tools/a-demanda-por-ia-ja-superou-a-oferta-e-tres-empresas-disputam-quem-lucra-com-isso.md) | A infraestrutura que sustenta a IA | 2026-09-15 |
 | [LongCat-Avatar](tools/longcat-avatar.md) | Foto + áudio viram vídeo pronto | 2026-09-15 |
 | [CONSELHEIRO DE IA DE TRUMP MANDA CEO DA ANTHROPIC SAIR DO CARGO OU FECHAR A EMPRESA](tools/conselheiro-de-ia-de-trump-manda-ceo-da-anthropic-sair-do-cargo-ou-fechar-a-empresa.md) | O confronto sobre segurança na IA | 2026-09-15 |
+| [GPT-6 Astra](tools/gpt-6-astra-20260915.md) | A IA QUE FAZ O TRABALHO DE UMA EQUIPE | 2026-09-15 |
