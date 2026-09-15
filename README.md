@@ -239,3 +239,4 @@ Quer o acesso de alguma? Comenta **"EU QUERO"** no post correspondente do Instag
 | [LLMagnet](tools/llmagnet.md) | COMO APARECER NAS RESPOSTAS DA IA | 2026-09-14 |
 | [ANTHROPIC REVELOU QUE ALGUEM TENTOU USAR IA PARA DEIXAR VIRUS MAIS INFECCIOSOS](tools/anthropic-revelou-que-alguem-tentou-usar-ia-para-deixar-virus-mais-infecciosos.md) | O ALERTA DO CEO SOBRE BIOTERRORISMO | 2026-09-14 |
 | [Cline Desktop](tools/cline-desktop-20260915.md) | O app que faz a IA programar de graça | 2026-09-15 |
+| [TRUMP BARRA FREIOS NA IA E DIZ QUE O ÚNICO CONTROLE É UM PRESIDENTE GENIAL](tools/trump-barra-freios-na-ia-e-diz-que-o-unico-controle-e-um-presidente-genial.md) | GUERRA POLÍTICA PELA REGULAÇÃO DA IA | 2026-09-15 |
