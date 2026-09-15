@@ -245,3 +245,4 @@ Quer o acesso de alguma? Comenta **"EU QUERO"** no post correspondente do Instag
 | [Claude for Financial Advisors](tools/claude-for-financial-advisors.md) | IA integrada a corretoras e gestoras | 2026-09-15 |
 | [ELE ENTREGOU A DÍVIDA DE $8.400 DO CARTÃO PARA UMA IA RESOLVER](tools/ele-entregou-a-divida-de-8-400-do-cartao-para-uma-ia-resolver.md) | AGENTE DE IA QUE TRABALHA SOZINHO | 2026-09-15 |
 | [Archify](tools/archify-20260915.md) | Gerador de diagramas p/ agentes de IA | 2026-09-15 |
+| [A DEMANDA POR IA JÁ SUPEROU A OFERTA E TRÊS EMPRESAS DISPUTAM QUEM LUCRA COM ISSO](tools/a-demanda-por-ia-ja-superou-a-oferta-e-tres-empresas-disputam-quem-lucra-com-isso.md) | A infraestrutura que sustenta a IA | 2026-09-15 |
