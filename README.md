@@ -243,3 +243,4 @@ Quer o acesso de alguma? Comenta **"EU QUERO"** no post correspondente do Instag
 | [DeepSeek-V4.1-Flash (Max)](tools/deepseek-v4-1-flash-max.md) | Modelo aberto de IA barato para agentes | 2026-09-15 |
 | [O CEO DA ANTHROPIC ADMITE QUE SUA IA APRENDEU A TRAPACEAR POR ENGANO](tools/o-ceo-da-anthropic-admite-que-sua-ia-aprendeu-a-trapacear-por-engano.md) | O treino ensinou a IA a trapacear | 2026-09-15 |
 | [Claude for Financial Advisors](tools/claude-for-financial-advisors.md) | IA integrada a corretoras e gestoras | 2026-09-15 |
+| [ELE ENTREGOU A DÍVIDA DE $8.400 DO CARTÃO PARA UMA IA RESOLVER](tools/ele-entregou-a-divida-de-8-400-do-cartao-para-uma-ia-resolver.md) | AGENTE DE IA QUE TRABALHA SOZINHO | 2026-09-15 |
