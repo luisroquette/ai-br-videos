@@ -263,3 +263,4 @@ Quer o acesso de alguma? Comenta **"EU QUERO"** no post correspondente do Instag
 | [5 IAs RIVAIS RECEBERAM O MESMO PROMPT. O RESULTADO VAI DECIDIR QUAL VALE SEU DINHEIRO](tools/5-ias-rivais-receberam-o-mesmo-prompt-o-resultado-vai-decidir-qual-vale-seu-dinheiro.md) | IA gerando sites completos, sem retoque | 2026-09-16 |
 | [SENADORES DOS EUA SÓ LEMBRARAM DA IA DOIS MESES ANTES DAS ELEIÇÕES. COINCIDÊNCIA?](tools/senadores-dos-eua-so-lembraram-da-ia-dois-meses-antes-das-eleicoes-coincidencia.md) | A corrida que Trump não quer perder | 2026-09-16 |
 | [GOVERNO TRUMP ACUSA DEMOCRATAS DE INVENTAREM ALERTA DE IA PRA INFLUENCIAR ELEIÇÕES](tools/governo-trump-acusa-democratas-de-inventarem-alerta-de-ia-pra-influenciar-eleicoes.md) | IA no centro da briga eleitoral dos EUA | 2026-09-16 |
+| [Agent-Reach](tools/agent-reach.md) | IA QUE BUSCA DADOS NA INTERNET PRA VOCE | 2026-09-16 |
