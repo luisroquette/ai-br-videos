@@ -269,3 +269,4 @@ Quer o acesso de alguma? Comenta **"EU QUERO"** no post correspondente do Instag
 | [IA CLONA MINISTRA EM VÍDEO FALSO DO FACEBOOK PARA PROMETER 90 MIL POR DIA](tools/ia-clona-ministra-em-video-falso-do-facebook-para-prometer-90-mil-por-dia.md) | Clonagem digital usada em golpes | 2026-09-16 |
 | [Codex](tools/codex.md) | Assistente de IA que escreve código | 2026-09-16 |
 | [Macaly Cloud](tools/macaly-cloud.md) | Do prompt ao app no ar, sem código | 2026-09-16 |
+| [GOLPISTAS USARAM IA PARA FALSAR MINISTRA EM GOLPE DE 90 MIL POR DIA](tools/golpistas-usaram-ia-para-falsar-ministra-em-golpe-de-90-mil-por-dia.md) | Vídeo falso de ministra feito com IA | 2026-09-16 |
