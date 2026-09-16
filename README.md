@@ -268,3 +268,4 @@ Quer o acesso de alguma? Comenta **"EU QUERO"** no post correspondente do Instag
 | [O MOMENTO GPT DOS ROBOS VAI NASCER DE VIDEOS DE PESSOAS TRABALHANDO](tools/o-momento-gpt-dos-robos-vai-nascer-de-videos-de-pessoas-trabalhando.md) | dados de video para IA robotica | 2026-09-16 |
 | [IA CLONA MINISTRA EM VÍDEO FALSO DO FACEBOOK PARA PROMETER 90 MIL POR DIA](tools/ia-clona-ministra-em-video-falso-do-facebook-para-prometer-90-mil-por-dia.md) | Clonagem digital usada em golpes | 2026-09-16 |
 | [Codex](tools/codex.md) | Assistente de IA que escreve código | 2026-09-16 |
+| [Macaly Cloud](tools/macaly-cloud.md) | Do prompt ao app no ar, sem código | 2026-09-16 |
