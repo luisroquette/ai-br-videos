@@ -260,3 +260,4 @@ Quer o acesso de alguma? Comenta **"EU QUERO"** no post correspondente do Instag
 | [Brand API](tools/brand-api.md) | Identidade de marca para agentes de IA | 2026-09-16 |
 | [O CEO DA ANTHROPIC REVELOA: USAMOS APENAS 5% DO VALOR QUE A IA PODE ENTREGAR](tools/o-ceo-da-anthropic-reveloa-usamos-apenas-5-do-valor-que-a-ia-pode-entregar.md) | O que a IA ainda pode entregar | 2026-09-16 |
 | [KAMALA HARRIS CHAMOU IA DE COISA CHIQUE E O VÍDEO DE 2023 ESTÁ SENDO USADO CONTRA ELA](tools/kamala-harris-chamou-ia-de-coisa-chique-e-o-video-de-2023-esta-sendo-usado-contra-ela.md) | A TECNOLOGIA QUE APRENDE SOZINHA | 2026-09-16 |
+| [5 IAs RIVAIS RECEBERAM O MESMO PROMPT. O RESULTADO VAI DECIDIR QUAL VALE SEU DINHEIRO](tools/5-ias-rivais-receberam-o-mesmo-prompt-o-resultado-vai-decidir-qual-vale-seu-dinheiro.md) | IA gerando sites completos, sem retoque | 2026-09-16 |
