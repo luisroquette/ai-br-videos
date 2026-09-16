@@ -272,3 +272,4 @@ Quer o acesso de alguma? Comenta **"EU QUERO"** no post correspondente do Instag
 | [GOLPISTAS USARAM IA PARA FALSAR MINISTRA EM GOLPE DE 90 MIL POR DIA](tools/golpistas-usaram-ia-para-falsar-ministra-em-golpe-de-90-mil-por-dia.md) | Vídeo falso de ministra feito com IA | 2026-09-16 |
 | [IA CLONOU MINISTRA DA ÍNDIA EM GOLPE QUE PROMETE 90 MIL POR DIA](tools/ia-clonou-ministra-da-india-em-golpe-que-promete-90-mil-por-dia.md) | Deepfake usado para aplicar golpe | 2026-09-16 |
 | [SE BERNIE SANDERS MANDASSE NA IA ELE DESLIGARIA TUDO E ENTREGARIA PRA CHINA](tools/se-bernie-sanders-mandasse-na-ia-ele-desligaria-tudo-e-entregaria-pra-china.md) | A DISPUTA POLÍTICA SOBRE O FUTURO DA IA | 2026-09-16 |
+| [O CEO DA ANTHROPIC AFIRMA QUE USAMOS APENAS 5% DO VALOR REAL DA IA](tools/o-ceo-da-anthropic-afirma-que-usamos-apenas-5-do-valor-real-da-ia.md) | O POTENCIAL QUE AINDA NAO USAMOS | 2026-09-16 |
