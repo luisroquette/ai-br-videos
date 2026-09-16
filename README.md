@@ -265,3 +265,4 @@ Quer o acesso de alguma? Comenta **"EU QUERO"** no post correspondente do Instag
 | [GOVERNO TRUMP ACUSA DEMOCRATAS DE INVENTAREM ALERTA DE IA PRA INFLUENCIAR ELEIÇÕES](tools/governo-trump-acusa-democratas-de-inventarem-alerta-de-ia-pra-influenciar-eleicoes.md) | IA no centro da briga eleitoral dos EUA | 2026-09-16 |
 | [Agent-Reach](tools/agent-reach.md) | IA QUE BUSCA DADOS NA INTERNET PRA VOCE | 2026-09-16 |
 | [SAM ALTMAN E ELON MUSK QUEREM REGULAR A IA MAS A LEI JA VE ISSO COMO CRIME](tools/sam-altman-e-elon-musk-querem-regular-a-ia-mas-a-lei-ja-ve-isso-como-crime.md) | O CONFLITO ENTRE BIG TECHS E A LEI | 2026-09-16 |
+| [O MOMENTO GPT DOS ROBOS VAI NASCER DE VIDEOS DE PESSOAS TRABALHANDO](tools/o-momento-gpt-dos-robos-vai-nascer-de-videos-de-pessoas-trabalhando.md) | dados de video para IA robotica | 2026-09-16 |
