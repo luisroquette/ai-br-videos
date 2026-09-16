@@ -256,3 +256,4 @@ Quer o acesso de alguma? Comenta **"EU QUERO"** no post correspondente do Instag
 | [A FERRAMENTA QUE CRIA APPS INTEIROS AGORA DEIXA VOCÊ ESCOLHER ENTRE GPT, CLAUDE E GROK](tools/a-ferramenta-que-cria-apps-inteiros-agora-deixa-voce-escolher-entre-gpt-claude-e-grok.md) | O construtor de apps com IA da Vercel | 2026-09-15 |
 | [ADVOGADO DE TRUMP ACUSA DEMOCRATAS DE USAREM IA PARA INFLUENCIAR ELEIÇÃO](tools/advogado-de-trump-acusa-democratas-de-usarem-ia-para-influenciar-eleicao.md) | COMO POLÍTICA PODE MUDAR SEU CHATGPT | 2026-09-15 |
 | [Neon](tools/neon.md) | IA TREINADA POR EXPERIMENTOS REAIS | 2026-09-15 |
+| [ELON MUSK EXPÕE O JOGO DAS IAS: 10% DE CHANCE DE ACABAR COM A HUMANIDADE, MAS QUEREM SEU DINHEIRO NO IPO](tools/elon-musk-expoe-o-jogo-das-ias-10-de-chance-de-acabar-com-a-humanidade-mas-querem-seu-dinheiro-no-ipo.md) | Regulação da IA como armadilha de monopólio | 2026-09-16 |
