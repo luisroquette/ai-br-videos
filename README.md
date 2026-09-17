@@ -278,3 +278,4 @@ Quer o acesso de alguma? Comenta **"EU QUERO"** no post correspondente do Instag
 | [SAM ALTMAN ADMITE QUE O MUNDO TEM RAZÃO EM TER MEDO DA INTELIGÊNCIA ARTIFICIAL](tools/sam-altman-admite-que-o-mundo-tem-razao-em-ter-medo-da-inteligencia-artificial.md) | O CEO DO CHATGPT FALA SOBRE OS RISCOS | 2026-09-17 |
 | [MARC ANDREESSEN REVELA QUE O GOVERNO QUERIA FECHAR STARTUPS DE IA E CONTROLAR TUDO](tools/marc-andreessen-revela-que-o-governo-queria-fechar-startups-de-ia-e-controlar-tudo.md) | REUNIÕES QUE ASSUSTARAM O SILICON VALLEY | 2026-09-17 |
 | [Office Hour Simulator](tools/office-hour-simulator.md) | O simulador de mentoria com IA da aceleradora | 2026-09-17 |
+| [Wafer](tools/wafer.md) | A IA VOZ QUE VENCEU NO LATÊNCIA | 2026-09-17 |
