@@ -275,3 +275,4 @@ Quer o acesso de alguma? Comenta **"EU QUERO"** no post correspondente do Instag
 | [O CEO DA ANTHROPIC AFIRMA QUE USAMOS APENAS 5% DO VALOR REAL DA IA](tools/o-ceo-da-anthropic-afirma-que-usamos-apenas-5-do-valor-real-da-ia.md) | O POTENCIAL QUE AINDA NAO USAMOS | 2026-09-16 |
 | [OpenArt Arena](tools/openart-arena.md) | Ranking global de IA para criativos | 2026-09-16 |
 | [MARC ANDREESSEN REVELA POR QUE ENDOSSOU TRUMP: CONTROLE TOTAL DA IA PELO GOVERNO](tools/marc-andreessen-revela-por-que-endossou-trump-controle-total-da-ia-pelo-governo.md) | O EMBATE POLITICO PELO FUTURO DA IA | 2026-09-16 |
+| [SAM ALTMAN ADMITE QUE O MUNDO TEM RAZÃO EM TER MEDO DA INTELIGÊNCIA ARTIFICIAL](tools/sam-altman-admite-que-o-mundo-tem-razao-em-ter-medo-da-inteligencia-artificial.md) | O CEO DO CHATGPT FALA SOBRE OS RISCOS | 2026-09-17 |
