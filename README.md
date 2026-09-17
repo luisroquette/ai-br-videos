@@ -279,3 +279,4 @@ Quer o acesso de alguma? Comenta **"EU QUERO"** no post correspondente do Instag
 | [MARC ANDREESSEN REVELA QUE O GOVERNO QUERIA FECHAR STARTUPS DE IA E CONTROLAR TUDO](tools/marc-andreessen-revela-que-o-governo-queria-fechar-startups-de-ia-e-controlar-tudo.md) | REUNIÕES QUE ASSUSTARAM O SILICON VALLEY | 2026-09-17 |
 | [Office Hour Simulator](tools/office-hour-simulator.md) | O simulador de mentoria com IA da aceleradora | 2026-09-17 |
 | [Wafer](tools/wafer.md) | A IA VOZ QUE VENCEU NO LATÊNCIA | 2026-09-17 |
+| [Grok Build](tools/grok-build.md) | Memória persistente pra IA que programa | 2026-09-17 |
