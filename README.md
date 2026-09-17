@@ -276,3 +276,4 @@ Quer o acesso de alguma? Comenta **"EU QUERO"** no post correspondente do Instag
 | [OpenArt Arena](tools/openart-arena.md) | Ranking global de IA para criativos | 2026-09-16 |
 | [MARC ANDREESSEN REVELA POR QUE ENDOSSOU TRUMP: CONTROLE TOTAL DA IA PELO GOVERNO](tools/marc-andreessen-revela-por-que-endossou-trump-controle-total-da-ia-pelo-governo.md) | O EMBATE POLITICO PELO FUTURO DA IA | 2026-09-16 |
 | [SAM ALTMAN ADMITE QUE O MUNDO TEM RAZÃO EM TER MEDO DA INTELIGÊNCIA ARTIFICIAL](tools/sam-altman-admite-que-o-mundo-tem-razao-em-ter-medo-da-inteligencia-artificial.md) | O CEO DO CHATGPT FALA SOBRE OS RISCOS | 2026-09-17 |
+| [MARC ANDREESSEN REVELA QUE O GOVERNO QUERIA FECHAR STARTUPS DE IA E CONTROLAR TUDO](tools/marc-andreessen-revela-que-o-governo-queria-fechar-startups-de-ia-e-controlar-tudo.md) | REUNIÕES QUE ASSUSTARAM O SILICON VALLEY | 2026-09-17 |
