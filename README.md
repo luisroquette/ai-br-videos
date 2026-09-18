@@ -280,3 +280,4 @@ Quer o acesso de alguma? Comenta **"EU QUERO"** no post correspondente do Instag
 | [Office Hour Simulator](tools/office-hour-simulator.md) | O simulador de mentoria com IA da aceleradora | 2026-09-17 |
 | [Wafer](tools/wafer.md) | A IA VOZ QUE VENCEU NO LATÊNCIA | 2026-09-17 |
 | [Grok Build](tools/grok-build.md) | Memória persistente pra IA que programa | 2026-09-17 |
+| [Claude](tools/claude-20260918.md) | O culto por trás da IA mais famosa | 2026-09-18 |
