@@ -286,3 +286,4 @@ Quer o acesso de alguma? Comenta **"EU QUERO"** no post correspondente do Instag
 | [GPT-6 Astra](tools/gpt-6-astra-20260918.md) | IA que gera cidades 3D completas | 2026-09-18 |
 | [Union-Alpha](tools/union-alpha.md) | O novo modelo que domina gráficos 3D | 2026-09-18 |
 | [Notion Skills API](tools/notion-skills-api.md) | API que leva as skills do seu time para qualquer agente de IA | 2026-09-18 |
+| [Helix 2.5](tools/helix-2-5.md) | Robô doméstico que trabalha sem treinamento | 2026-09-18 |
