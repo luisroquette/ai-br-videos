@@ -288,3 +288,4 @@ Quer o acesso de alguma? Comenta **"EU QUERO"** no post correspondente do Instag
 | [Notion Skills API](tools/notion-skills-api.md) | API que leva as skills do seu time para qualquer agente de IA | 2026-09-18 |
 | [Helix 2.5](tools/helix-2-5.md) | Robô doméstico que trabalha sem treinamento | 2026-09-18 |
 | [Pika](tools/pika.md) | Criacao de videos com IA generativa | 2026-09-18 |
+| [Grok](tools/grok-20260918.md) | IA DE CONVERSA DO ELON MUSK NO X | 2026-09-18 |
