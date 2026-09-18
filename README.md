@@ -283,3 +283,4 @@ Quer o acesso de alguma? Comenta **"EU QUERO"** no post correspondente do Instag
 | [Claude](tools/claude-20260918.md) | O culto por trás da IA mais famosa | 2026-09-18 |
 | [Swarm](tools/swarm.md) | Seu histórico de lugares agora dentro da IA | 2026-09-18 |
 | [Kimi K3](tools/kimi-k3-20260918.md) | IA que troca de modelo sem quebrar nada | 2026-09-18 |
+| [GPT-6 Astra](tools/gpt-6-astra-20260918.md) | IA que gera cidades 3D completas | 2026-09-18 |
