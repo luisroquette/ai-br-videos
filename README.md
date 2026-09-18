@@ -281,3 +281,4 @@ Quer o acesso de alguma? Comenta **"EU QUERO"** no post correspondente do Instag
 | [Wafer](tools/wafer.md) | A IA VOZ QUE VENCEU NO LATÊNCIA | 2026-09-17 |
 | [Grok Build](tools/grok-build.md) | Memória persistente pra IA que programa | 2026-09-17 |
 | [Claude](tools/claude-20260918.md) | O culto por trás da IA mais famosa | 2026-09-18 |
+| [Swarm](tools/swarm.md) | Seu histórico de lugares agora dentro da IA | 2026-09-18 |
