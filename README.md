@@ -302,3 +302,4 @@ Quer o acesso de alguma? Comenta **"EU QUERO"** no post correspondente do Instag
 | [Littlebird](tools/littlebird.md) | assistente de IA com memória total | 2026-09-19 |
 | [OBAMA DISPARA CONTRA AS BIG TECHS: IA SOLTA NA INTERNET É UM RISCO QUE NINGUÉM PEDIU](tools/obama-dispara-contra-as-big-techs-ia-solta-na-internet-e-um-risco-que-ninguem-pediu.md) | Ex-presidente critica rumo da IA | 2026-09-19 |
 | [OBAMA DISPARA: IA AGÊNTICA SOLTA NA INTERNET EXISTE PRA JUSTIFICAR VALUATIONS](tools/obama-dispara-ia-agentica-solta-na-internet-existe-pra-justificar-valuations.md) | IA que age e decide sozinha na web | 2026-09-19 |
+| [5 AGENTES DE IA CONSTRUIRAM UM SISTEMA DE US$ 2,4 MILHOES POR ANO EM 60 MINUTOS](tools/5-agentes-de-ia-construiram-um-sistema-de-us-2-4-milhoes-por-ano-em-60-minutos.md) | AGENTES DE IA MONTANDO PRODUTOS SOZINHOS | 2026-09-19 |
