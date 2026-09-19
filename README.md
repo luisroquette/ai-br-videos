@@ -294,3 +294,4 @@ Quer o acesso de alguma? Comenta **"EU QUERO"** no post correspondente do Instag
 | [Claude Code](tools/claude-code-20260919.md) | O agente de IA que programa no terminal | 2026-09-19 |
 | [AgentCloak](tools/agentcloak.md) | Ferramenta que esconde seus dados da IA | 2026-09-19 |
 | [Needle 3](tools/needle-3.md) | IA mini que roda em qualquer aparelho | 2026-09-19 |
+| [EX-MINISTRO FRANCES GANHOU 90 MILHOES DE EUROS INVESTINDO 170 NA MISTRAL AI](tools/ex-ministro-frances-ganhou-90-milhoes-de-euros-investindo-170-na-mistral-ai.md) | O caso que expoe o aparelho de Estado frances | 2026-09-19 |
