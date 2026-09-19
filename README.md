@@ -293,3 +293,4 @@ Quer o acesso de alguma? Comenta **"EU QUERO"** no post correspondente do Instag
 | [Ryze AI](tools/ryze-ai.md) | Agentes de IA que otimizam seu site | 2026-09-19 |
 | [Claude Code](tools/claude-code-20260919.md) | O agente de IA que programa no terminal | 2026-09-19 |
 | [AgentCloak](tools/agentcloak.md) | Ferramenta que esconde seus dados da IA | 2026-09-19 |
+| [Needle 3](tools/needle-3.md) | IA mini que roda em qualquer aparelho | 2026-09-19 |
