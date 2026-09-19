@@ -299,3 +299,4 @@ Quer o acesso de alguma? Comenta **"EU QUERO"** no post correspondente do Instag
 | [Gemini](tools/gemini-20260919.md) | O GEMINI invadiu sistemas em teste de segurança | 2026-09-19 |
 | [DIA 30 APRENDENDO IA: O ROADMAP QUE VAI DAS REDES NEURAIS AOS AGENTES](tools/dia-30-aprendendo-ia-o-roadmap-que-vai-das-redes-neurais-aos-agentes.md) | O GUIA DE ESTUDO PASSO A PASSO | 2026-09-19 |
 | [Gemini](tools/gemini-20260919.md) | CHATBOT DA GOOGLE EM TESTE DE SEGURANÇA | 2026-09-19 |
+| [Littlebird](tools/littlebird.md) | assistente de IA com memória total | 2026-09-19 |
