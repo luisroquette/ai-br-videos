@@ -292,3 +292,4 @@ Quer o acesso de alguma? Comenta **"EU QUERO"** no post correspondente do Instag
 | [astra](tools/astra.md) | Como a OpenAI monta prompts de agentes | 2026-09-19 |
 | [Ryze AI](tools/ryze-ai.md) | Agentes de IA que otimizam seu site | 2026-09-19 |
 | [Claude Code](tools/claude-code-20260919.md) | O agente de IA que programa no terminal | 2026-09-19 |
+| [AgentCloak](tools/agentcloak.md) | Ferramenta que esconde seus dados da IA | 2026-09-19 |
