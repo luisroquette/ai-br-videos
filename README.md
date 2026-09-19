@@ -300,3 +300,4 @@ Quer o acesso de alguma? Comenta **"EU QUERO"** no post correspondente do Instag
 | [DIA 30 APRENDENDO IA: O ROADMAP QUE VAI DAS REDES NEURAIS AOS AGENTES](tools/dia-30-aprendendo-ia-o-roadmap-que-vai-das-redes-neurais-aos-agentes.md) | O GUIA DE ESTUDO PASSO A PASSO | 2026-09-19 |
 | [Gemini](tools/gemini-20260919.md) | CHATBOT DA GOOGLE EM TESTE DE SEGURANÇA | 2026-09-19 |
 | [Littlebird](tools/littlebird.md) | assistente de IA com memória total | 2026-09-19 |
+| [OBAMA DISPARA CONTRA AS BIG TECHS: IA SOLTA NA INTERNET É UM RISCO QUE NINGUÉM PEDIU](tools/obama-dispara-contra-as-big-techs-ia-solta-na-internet-e-um-risco-que-ninguem-pediu.md) | Ex-presidente critica rumo da IA | 2026-09-19 |
