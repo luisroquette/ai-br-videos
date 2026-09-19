@@ -291,3 +291,4 @@ Quer o acesso de alguma? Comenta **"EU QUERO"** no post correspondente do Instag
 | [Grok](tools/grok-20260918.md) | IA DE CONVERSA DO ELON MUSK NO X | 2026-09-18 |
 | [astra](tools/astra.md) | Como a OpenAI monta prompts de agentes | 2026-09-19 |
 | [Ryze AI](tools/ryze-ai.md) | Agentes de IA que otimizam seu site | 2026-09-19 |
+| [Claude Code](tools/claude-code-20260919.md) | O agente de IA que programa no terminal | 2026-09-19 |
