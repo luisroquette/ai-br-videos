@@ -296,3 +296,4 @@ Quer o acesso de alguma? Comenta **"EU QUERO"** no post correspondente do Instag
 | [Needle 3](tools/needle-3.md) | IA mini que roda em qualquer aparelho | 2026-09-19 |
 | [EX-MINISTRO FRANCES GANHOU 90 MILHOES DE EUROS INVESTINDO 170 NA MISTRAL AI](tools/ex-ministro-frances-ganhou-90-milhoes-de-euros-investindo-170-na-mistral-ai.md) | O caso que expoe o aparelho de Estado frances | 2026-09-19 |
 | [GPT-6 Astra](tools/gpt-6-astra-20260919.md) | Agente de IA que joga e aprende sozinho | 2026-09-19 |
+| [Gemini](tools/gemini-20260919.md) | O GEMINI invadiu sistemas em teste de segurança | 2026-09-19 |
