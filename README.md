@@ -304,3 +304,4 @@ Quer o acesso de alguma? Comenta **"EU QUERO"** no post correspondente do Instag
 | [OBAMA DISPARA: IA AGÊNTICA SOLTA NA INTERNET EXISTE PRA JUSTIFICAR VALUATIONS](tools/obama-dispara-ia-agentica-solta-na-internet-existe-pra-justificar-valuations.md) | IA que age e decide sozinha na web | 2026-09-19 |
 | [5 AGENTES DE IA CONSTRUIRAM UM SISTEMA DE US$ 2,4 MILHOES POR ANO EM 60 MINUTOS](tools/5-agentes-de-ia-construiram-um-sistema-de-us-2-4-milhoes-por-ano-em-60-minutos.md) | AGENTES DE IA MONTANDO PRODUTOS SOZINHOS | 2026-09-19 |
 | [CURSO DE IA CUSTA $10.000 PARA ENSINAR UM CHATGPT QUE NAO EXISTE](tools/curso-de-ia-custa-10-000-para-ensinar-um-chatgpt-que-nao-existe.md) | GOLPE DOS CURSOS DE PROMPT DE IA | 2026-09-19 |
+| [O GOLPE DO CURSO DE IA DE $10.000 QUE PROMETE ENSINAR O QUE NAO EXISTE](tools/o-golpe-do-curso-de-ia-de-10-000-que-promete-ensinar-o-que-nao-existe.md) | Como funciona o golpe dos cursos de IA | 2026-09-19 |
