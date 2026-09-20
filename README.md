@@ -312,3 +312,4 @@ Quer o acesso de alguma? Comenta **"EU QUERO"** no post correspondente do Instag
 | [Jev](tools/jev.md) | IA que toma decisões em tempo real | 2026-09-20 |
 | [DRONES UCRÂNIANOS USAM IA PARA DESTRUIR CAMINHÃO RUSSO CHEIO DE FOGUETES](tools/drones-ucranianos-usam-ia-para-destruir-caminhao-russo-cheio-de-foguetes.md) | IA de mira para drones de guerra | 2026-09-20 |
 | [Jev](tools/jev-20260920.md) | Fábrica de agentes de IA explicada | 2026-09-20 |
+| [Google Maps](tools/google-maps.md) | IA escondida no app de navegação | 2026-09-20 |
