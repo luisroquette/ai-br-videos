@@ -308,3 +308,4 @@ Quer o acesso de alguma? Comenta **"EU QUERO"** no post correspondente do Instag
 | [OBAMA: EMPRESAS SOLTAM IA NA INTERNET PRA JUSTIFICAR BILHOES EM VALUATIONS](tools/obama-empresas-soltam-ia-na-internet-pra-justificar-bilhoes-em-valuations.md) | IA QUE AGE SOZINHA NA INTERNET | 2026-09-20 |
 | [Gemini](tools/gemini-20260920.md) | IA do Google hackeou computadores em teste | 2026-09-20 |
 | [Gemini](tools/gemini-20260920.md) | IA DO GOOGLE EM TESTE DE SEGURANÇA | 2026-09-20 |
+| [Starlink V3](tools/starlink-v3.md) | Internet via satélite alimentada por IA | 2026-09-20 |
