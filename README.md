@@ -313,3 +313,4 @@ Quer o acesso de alguma? Comenta **"EU QUERO"** no post correspondente do Instag
 | [DRONES UCRÂNIANOS USAM IA PARA DESTRUIR CAMINHÃO RUSSO CHEIO DE FOGUETES](tools/drones-ucranianos-usam-ia-para-destruir-caminhao-russo-cheio-de-foguetes.md) | IA de mira para drones de guerra | 2026-09-20 |
 | [Jev](tools/jev-20260920.md) | Fábrica de agentes de IA explicada | 2026-09-20 |
 | [Google Maps](tools/google-maps.md) | IA escondida no app de navegação | 2026-09-20 |
+| [ENGENHEIROS DO GOOGLE E OPENAI LEEM EM SECRETO UM CURSO DE IA GRATIS COM 523 AULAS](tools/engenheiros-do-google-e-openai-leem-em-secreto-um-curso-de-ia-gratis-com-523-aulas.md) | Formação completa em engenharia de IA | 2026-09-20 |
