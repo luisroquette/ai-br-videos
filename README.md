@@ -314,3 +314,4 @@ Quer o acesso de alguma? Comenta **"EU QUERO"** no post correspondente do Instag
 | [Jev](tools/jev-20260920.md) | Fábrica de agentes de IA explicada | 2026-09-20 |
 | [Google Maps](tools/google-maps.md) | IA escondida no app de navegação | 2026-09-20 |
 | [ENGENHEIROS DO GOOGLE E OPENAI LEEM EM SECRETO UM CURSO DE IA GRATIS COM 523 AULAS](tools/engenheiros-do-google-e-openai-leem-em-secreto-um-curso-de-ia-gratis-com-523-aulas.md) | Formação completa em engenharia de IA | 2026-09-20 |
+| [Muse](tools/muse-20260920.md) | A assistente de voz da Meta na TV | 2026-09-20 |
