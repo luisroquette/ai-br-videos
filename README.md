@@ -306,3 +306,4 @@ Quer o acesso de alguma? Comenta **"EU QUERO"** no post correspondente do Instag
 | [CURSO DE IA CUSTA $10.000 PARA ENSINAR UM CHATGPT QUE NAO EXISTE](tools/curso-de-ia-custa-10-000-para-ensinar-um-chatgpt-que-nao-existe.md) | GOLPE DOS CURSOS DE PROMPT DE IA | 2026-09-19 |
 | [O GOLPE DO CURSO DE IA DE $10.000 QUE PROMETE ENSINAR O QUE NAO EXISTE](tools/o-golpe-do-curso-de-ia-de-10-000-que-promete-ensinar-o-que-nao-existe.md) | Como funciona o golpe dos cursos de IA | 2026-09-19 |
 | [OBAMA: EMPRESAS SOLTAM IA NA INTERNET PRA JUSTIFICAR BILHOES EM VALUATIONS](tools/obama-empresas-soltam-ia-na-internet-pra-justificar-bilhoes-em-valuations.md) | IA QUE AGE SOZINHA NA INTERNET | 2026-09-20 |
+| [Gemini](tools/gemini-20260920.md) | IA do Google hackeou computadores em teste | 2026-09-20 |
