@@ -323,3 +323,4 @@ Quer o acesso de alguma? Comenta **"EU QUERO"** no post correspondente do Instag
 | [opus 5.5](tools/opus-5-5-20260921.md) | IA que cria sites inteiros sozinha | 2026-09-21 |
 | [CAMPOS DE GOLFE USAM 40 VEZES MAIS AGUA QUE OS DATACENTERS DE IA](tools/campos-de-golfe-usam-40-vezes-mais-agua-que-os-datacenters-de-ia.md) | OS GIGANTESCOS HUBS QUE RODAM A IA | 2026-09-21 |
 | [SECRETÁRIO DO TESOURO DESTRÓI O PEDIDO DE IMUNIDADE DA OPENAI E ANTHROPIC NA TV](tools/secretario-do-tesouro-destroi-o-pedido-de-imunidade-da-openai-e-anthropic-na-tv.md) | Governo recusa absorver o risco da IA | 2026-09-21 |
+| [SECRETARIO DO TESOURO DOS EUA RECUSA ESCUDO CONTRA PROCESSOS A OPENAI E ANTHROPIC NA TV](tools/secretario-do-tesouro-dos-eua-recusa-escudo-contra-processos-a-openai-e-anthropic-na-tv.md) | O GOVERNO DOS EUA X OS LABS DE IA | 2026-09-21 |
