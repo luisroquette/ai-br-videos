@@ -322,3 +322,4 @@ Quer o acesso de alguma? Comenta **"EU QUERO"** no post correspondente do Instag
 | [A SPACEX TRANSFORMOU AMAZON E ANTHROPIC DE RIVAIS EM CLIENTES](tools/a-spacex-transformou-amazon-e-anthropic-de-rivais-em-clientes.md) | DATA CENTERS DE IA FORA DA TERRA | 2026-09-21 |
 | [opus 5.5](tools/opus-5-5-20260921.md) | IA que cria sites inteiros sozinha | 2026-09-21 |
 | [CAMPOS DE GOLFE USAM 40 VEZES MAIS AGUA QUE OS DATACENTERS DE IA](tools/campos-de-golfe-usam-40-vezes-mais-agua-que-os-datacenters-de-ia.md) | OS GIGANTESCOS HUBS QUE RODAM A IA | 2026-09-21 |
+| [SECRETÁRIO DO TESOURO DESTRÓI O PEDIDO DE IMUNIDADE DA OPENAI E ANTHROPIC NA TV](tools/secretario-do-tesouro-destroi-o-pedido-de-imunidade-da-openai-e-anthropic-na-tv.md) | Governo recusa absorver o risco da IA | 2026-09-21 |
