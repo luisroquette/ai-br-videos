@@ -317,3 +317,4 @@ Quer o acesso de alguma? Comenta **"EU QUERO"** no post correspondente do Instag
 | [Muse](tools/muse-20260920.md) | A assistente de voz da Meta na TV | 2026-09-20 |
 | [Eyeball](tools/eyeball.md) | IA que prova as respostas com prints | 2026-09-20 |
 | [Opus 5.5](tools/opus-5-5.md) | O MODELO QUE ESTÁ ASSUSTANDO A INTERNET | 2026-09-20 |
+| [Fable 5.2](tools/fable-5-2.md) | O novo modelo de IA da Anthropic | 2026-09-21 |
