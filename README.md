@@ -320,3 +320,4 @@ Quer o acesso de alguma? Comenta **"EU QUERO"** no post correspondente do Instag
 | [Fable 5.2](tools/fable-5-2.md) | O novo modelo de IA da Anthropic | 2026-09-21 |
 | [GLM 5.3 Flash + Jev](tools/glm-5-3-flash-jev.md) | Duas IAs trabalhando juntas superam uma so | 2026-09-21 |
 | [A SPACEX TRANSFORMOU AMAZON E ANTHROPIC DE RIVAIS EM CLIENTES](tools/a-spacex-transformou-amazon-e-anthropic-de-rivais-em-clientes.md) | DATA CENTERS DE IA FORA DA TERRA | 2026-09-21 |
+| [opus 5.5](tools/opus-5-5-20260921.md) | IA que cria sites inteiros sozinha | 2026-09-21 |
