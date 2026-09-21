@@ -318,3 +318,4 @@ Quer o acesso de alguma? Comenta **"EU QUERO"** no post correspondente do Instag
 | [Eyeball](tools/eyeball.md) | IA que prova as respostas com prints | 2026-09-20 |
 | [Opus 5.5](tools/opus-5-5.md) | O MODELO QUE ESTÁ ASSUSTANDO A INTERNET | 2026-09-20 |
 | [Fable 5.2](tools/fable-5-2.md) | O novo modelo de IA da Anthropic | 2026-09-21 |
+| [GLM 5.3 Flash + Jev](tools/glm-5-3-flash-jev.md) | Duas IAs trabalhando juntas superam uma so | 2026-09-21 |
