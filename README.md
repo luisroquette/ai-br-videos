@@ -321,3 +321,4 @@ Quer o acesso de alguma? Comenta **"EU QUERO"** no post correspondente do Instag
 | [GLM 5.3 Flash + Jev](tools/glm-5-3-flash-jev.md) | Duas IAs trabalhando juntas superam uma so | 2026-09-21 |
 | [A SPACEX TRANSFORMOU AMAZON E ANTHROPIC DE RIVAIS EM CLIENTES](tools/a-spacex-transformou-amazon-e-anthropic-de-rivais-em-clientes.md) | DATA CENTERS DE IA FORA DA TERRA | 2026-09-21 |
 | [opus 5.5](tools/opus-5-5-20260921.md) | IA que cria sites inteiros sozinha | 2026-09-21 |
+| [CAMPOS DE GOLFE USAM 40 VEZES MAIS AGUA QUE OS DATACENTERS DE IA](tools/campos-de-golfe-usam-40-vezes-mais-agua-que-os-datacenters-de-ia.md) | OS GIGANTESCOS HUBS QUE RODAM A IA | 2026-09-21 |
