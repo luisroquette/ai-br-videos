@@ -328,3 +328,4 @@ Quer o acesso de alguma? Comenta **"EU QUERO"** no post correspondente do Instag
 | [Grok Bot](tools/grok-bot-20260921.md) | IA que coordena outras IAs por você | 2026-09-21 |
 | [Grok Bot](tools/grok-bot-20260922.md) | AGENTES DE IA TRABALHANDO COMO UM TIME | 2026-09-22 |
 | [A OPENAI PODE SER NACIONALIZADA? O ALERTA QUE POUCOS ENTENDERAM](tools/a-openai-pode-ser-nacionalizada-o-alerta-que-poucos-entenderam.md) | O alerta do CEO da Anthropic sobre o futuro da OpenAI | 2026-09-22 |
+| [Claude Code](tools/claude-code-20260922.md) | A AULA QUE MUDA COMO VOCÊ USA IA | 2026-09-22 |
