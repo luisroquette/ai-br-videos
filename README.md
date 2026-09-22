@@ -327,3 +327,4 @@ Quer o acesso de alguma? Comenta **"EU QUERO"** no post correspondente do Instag
 | [SECRETÁRIO DO TESOURO DOS EUA NEGA IMUNIDADE A OPENAI E ANTHROPIC EM REDE NACIONAL](tools/secretario-do-tesouro-dos-eua-nega-imunidade-a-openai-e-anthropic-em-rede-nacional.md) | Governo recusa eximir labs de IA de responsabilidade | 2026-09-21 |
 | [Grok Bot](tools/grok-bot-20260921.md) | IA que coordena outras IAs por você | 2026-09-21 |
 | [Grok Bot](tools/grok-bot-20260922.md) | AGENTES DE IA TRABALHANDO COMO UM TIME | 2026-09-22 |
+| [A OPENAI PODE SER NACIONALIZADA? O ALERTA QUE POUCOS ENTENDERAM](tools/a-openai-pode-ser-nacionalizada-o-alerta-que-poucos-entenderam.md) | O alerta do CEO da Anthropic sobre o futuro da OpenAI | 2026-09-22 |
