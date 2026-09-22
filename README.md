@@ -331,3 +331,4 @@ Quer o acesso de alguma? Comenta **"EU QUERO"** no post correspondente do Instag
 | [Claude Code](tools/claude-code-20260922.md) | A AULA QUE MUDA COMO VOCÊ USA IA | 2026-09-22 |
 | [musebook](tools/musebook.md) | IA que opera sozinha na bolsa | 2026-09-22 |
 | [Grok Bot](tools/grok-bot-20260922.md) | Um time de IAs com um só chefe | 2026-09-22 |
+| [Higgsfield](tools/higgsfield-20260922.md) | Fluxo de anúncios controlado por voz | 2026-09-22 |
