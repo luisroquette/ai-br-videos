@@ -338,3 +338,4 @@ Quer o acesso de alguma? Comenta **"EU QUERO"** no post correspondente do Instag
 | [TRUMP DIZ QUE IA VAI SER MAIOR QUE A REVOLUÇÃO INDUSTRIAL E QUE NÃO VAI SEGURAR NADA](tools/trump-diz-que-ia-vai-ser-maior-que-a-revolucao-industrial-e-que-nao-vai-segurar-nada.md) | A promessa de superinteligência sem freios | 2026-09-22 |
 | [Grok Bot](tools/grok-bot-20260922.md) | Agente de IA que age sozinho no carro | 2026-09-22 |
 | [Claude Opus 5.5](tools/claude-opus-5-5.md) | O duelo das IAs de programação | 2026-09-22 |
+| [GPT-6 Sol](tools/gpt-6-sol-20260922.md) | Dois modelos novos e mais baratos | 2026-09-22 |
