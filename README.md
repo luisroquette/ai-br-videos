@@ -326,3 +326,4 @@ Quer o acesso de alguma? Comenta **"EU QUERO"** no post correspondente do Instag
 | [SECRETARIO DO TESOURO DOS EUA RECUSA ESCUDO CONTRA PROCESSOS A OPENAI E ANTHROPIC NA TV](tools/secretario-do-tesouro-dos-eua-recusa-escudo-contra-processos-a-openai-e-anthropic-na-tv.md) | O GOVERNO DOS EUA X OS LABS DE IA | 2026-09-21 |
 | [SECRETÁRIO DO TESOURO DOS EUA NEGA IMUNIDADE A OPENAI E ANTHROPIC EM REDE NACIONAL](tools/secretario-do-tesouro-dos-eua-nega-imunidade-a-openai-e-anthropic-em-rede-nacional.md) | Governo recusa eximir labs de IA de responsabilidade | 2026-09-21 |
 | [Grok Bot](tools/grok-bot-20260921.md) | IA que coordena outras IAs por você | 2026-09-21 |
+| [Grok Bot](tools/grok-bot-20260922.md) | AGENTES DE IA TRABALHANDO COMO UM TIME | 2026-09-22 |
