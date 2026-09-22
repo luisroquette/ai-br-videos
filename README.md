@@ -333,3 +333,4 @@ Quer o acesso de alguma? Comenta **"EU QUERO"** no post correspondente do Instag
 | [Grok Bot](tools/grok-bot-20260922.md) | Um time de IAs com um só chefe | 2026-09-22 |
 | [Higgsfield](tools/higgsfield-20260922.md) | Fluxo de anúncios controlado por voz | 2026-09-22 |
 | [Grok Bot](tools/grok-bot-20260922.md) | COMO ELE JUNTOU TODAS AS IAS NUM LUGAR | 2026-09-22 |
+| [SECRETÁRIO DO TESOURO DESTRÓI ISENÇÃO DE RESPONSABILIDADE DA OPENAI E ANTHROPIC AO VIVO](tools/secretario-do-tesouro-destroi-isencao-de-responsabilidade-da-openai-e-anthropic-ao-vivo.md) | Governo recusa absolver empresas de IA | 2026-09-22 |
