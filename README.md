@@ -342,3 +342,4 @@ Quer o acesso de alguma? Comenta **"EU QUERO"** no post correspondente do Instag
 | [Vercel AI Gateway](tools/vercel-ai-gateway.md) | A DISPUTA PELO MERCADO DE MODELOS DE IA | 2026-09-23 |
 | [Grok 4.7](tools/grok-4-7.md) | IA que cria jogos completos sozinha | 2026-09-23 |
 | [Codex](tools/codex-20260923.md) | Codex e Claude constroem e testam o app sozinhos | 2026-09-23 |
+| [JENSEN HUANG: SE OPENAI E ANTHROPIC NÃO SABEM ALINHAR SUAS IAS, FECHAM OS LABORATÓRIOS](tools/jensen-huang-se-openai-e-anthropic-nao-sabem-alinhar-suas-ias-fecham-os-laboratorios.md) | O CEO da Nvidia sobre segurança de IA | 2026-09-23 |
