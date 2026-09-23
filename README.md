@@ -340,3 +340,4 @@ Quer o acesso de alguma? Comenta **"EU QUERO"** no post correspondente do Instag
 | [Claude Opus 5.5](tools/claude-opus-5-5.md) | O duelo das IAs de programação | 2026-09-22 |
 | [GPT-6 Sol](tools/gpt-6-sol-20260922.md) | Dois modelos novos e mais baratos | 2026-09-22 |
 | [Vercel AI Gateway](tools/vercel-ai-gateway.md) | A DISPUTA PELO MERCADO DE MODELOS DE IA | 2026-09-23 |
+| [Grok 4.7](tools/grok-4-7.md) | IA que cria jogos completos sozinha | 2026-09-23 |
