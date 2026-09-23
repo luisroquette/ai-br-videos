@@ -339,3 +339,4 @@ Quer o acesso de alguma? Comenta **"EU QUERO"** no post correspondente do Instag
 | [Grok Bot](tools/grok-bot-20260922.md) | Agente de IA que age sozinho no carro | 2026-09-22 |
 | [Claude Opus 5.5](tools/claude-opus-5-5.md) | O duelo das IAs de programação | 2026-09-22 |
 | [GPT-6 Sol](tools/gpt-6-sol-20260922.md) | Dois modelos novos e mais baratos | 2026-09-22 |
+| [Vercel AI Gateway](tools/vercel-ai-gateway.md) | A DISPUTA PELO MERCADO DE MODELOS DE IA | 2026-09-23 |
