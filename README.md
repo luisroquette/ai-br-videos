@@ -347,3 +347,4 @@ Quer o acesso de alguma? Comenta **"EU QUERO"** no post correspondente do Instag
 | [Jev](tools/jev-20260924.md) | Sistema que distribui tarefas entre IAs | 2026-09-24 |
 | [Portable Computer for Windows](tools/portable-computer-for-windows.md) | Agentes de IA rodando no seu PC | 2026-09-24 |
 | [Jev](tools/jev-20260924.md) | Agentes de IA que se consertam sozinhos | 2026-09-24 |
+| [ACTx486](tools/actx486.md) | IA que conversa com vídeos | 2026-09-24 |
