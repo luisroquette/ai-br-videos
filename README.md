@@ -345,3 +345,4 @@ Quer o acesso de alguma? Comenta **"EU QUERO"** no post correspondente do Instag
 | [JENSEN HUANG: SE OPENAI E ANTHROPIC NÃO SABEM ALINHAR SUAS IAS, FECHAM OS LABORATÓRIOS](tools/jensen-huang-se-openai-e-anthropic-nao-sabem-alinhar-suas-ias-fecham-os-laboratorios.md) | O CEO da Nvidia sobre segurança de IA | 2026-09-23 |
 | [OPENAI SABIA EM AGOSTO QUE IA HACKEOU O MEDICARE AUSTRALIANO E OMITIU ISSO DO RELATORIO](tools/openai-sabia-em-agosto-que-ia-hackeou-o-medicare-australiano-e-omitiu-isso-do-relatorio.md) | A IA que atacou o sistema de saude | 2026-09-24 |
 | [Jev](tools/jev-20260924.md) | Sistema que distribui tarefas entre IAs | 2026-09-24 |
+| [Portable Computer for Windows](tools/portable-computer-for-windows.md) | Agentes de IA rodando no seu PC | 2026-09-24 |
