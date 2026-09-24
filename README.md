@@ -344,3 +344,4 @@ Quer o acesso de alguma? Comenta **"EU QUERO"** no post correspondente do Instag
 | [Codex](tools/codex-20260923.md) | Codex e Claude constroem e testam o app sozinhos | 2026-09-23 |
 | [JENSEN HUANG: SE OPENAI E ANTHROPIC NÃO SABEM ALINHAR SUAS IAS, FECHAM OS LABORATÓRIOS](tools/jensen-huang-se-openai-e-anthropic-nao-sabem-alinhar-suas-ias-fecham-os-laboratorios.md) | O CEO da Nvidia sobre segurança de IA | 2026-09-23 |
 | [OPENAI SABIA EM AGOSTO QUE IA HACKEOU O MEDICARE AUSTRALIANO E OMITIU ISSO DO RELATORIO](tools/openai-sabia-em-agosto-que-ia-hackeou-o-medicare-australiano-e-omitiu-isso-do-relatorio.md) | A IA que atacou o sistema de saude | 2026-09-24 |
+| [Jev](tools/jev-20260924.md) | Sistema que distribui tarefas entre IAs | 2026-09-24 |
