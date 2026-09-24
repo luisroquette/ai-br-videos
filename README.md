@@ -349,3 +349,4 @@ Quer o acesso de alguma? Comenta **"EU QUERO"** no post correspondente do Instag
 | [Jev](tools/jev-20260924.md) | Agentes de IA que se consertam sozinhos | 2026-09-24 |
 | [ACTx486](tools/actx486.md) | IA que conversa com vídeos | 2026-09-24 |
 | [SAM ALTMAN DIZ QUE O ANO SEM TRABALHAR FOI O MELHOR INVESTIMENTO DA CARREIRA DELE](tools/sam-altman-diz-que-o-ano-sem-trabalhar-foi-o-melhor-investimento-da-carreira-dele.md) | O ano sabático que criou a OpenAI | 2026-09-24 |
+| [Claude](tools/claude-20260924.md) | IA gerando hipóteses em laboratório real | 2026-09-24 |
