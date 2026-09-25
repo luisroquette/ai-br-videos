@@ -353,3 +353,4 @@ Quer o acesso de alguma? Comenta **"EU QUERO"** no post correspondente do Instag
 | [claude-api prompt-audit](tools/claude-api-prompt-audit.md) | O comando que reescreve prompts antigos | 2026-09-24 |
 | [Meta Ray-Ban Display](tools/meta-ray-ban-display.md) | Óculos VR com IA integrada ao sistema | 2026-09-24 |
 | [Claude](tools/claude-20260925.md) | IA QUE GERA HIPOTESES CIENTIFICAS | 2026-09-25 |
+| [CRIADOR USA GPT-6 PARA FAZER FILME ONDE A AUDIENCIA ESCREVE A HISTORIA](tools/criador-usa-gpt-6-para-fazer-filme-onde-a-audiencia-escreve-a-historia.md) | Filme interativo criado por IA | 2026-09-25 |
