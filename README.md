@@ -357,3 +357,4 @@ Quer o acesso de alguma? Comenta **"EU QUERO"** no post correspondente do Instag
 | [Metix AI Platform](tools/metix-ai-platform.md) | Agente que busca pessoas e vagas | 2026-09-25 |
 | [Project Suncatcher](tools/project-suncatcher.md) | Data centers orbitais movidos a sol | 2026-09-25 |
 | [Project Suncatcher](tools/project-suncatcher-20260925.md) | Data centers de IA em órbita | 2026-09-25 |
+| [COLOCARAM CHATGPT, CLAUDE E GROK PARA DIRIGIR UM TOYOTA COROLLA DE VERDADE. SÓ 1 PASSOU NO TESTE](tools/colocaram-chatgpt-claude-e-grok-para-dirigir-um-toyota-corolla-de-verdade-so-1-passou-no-teste.md) | IAs de texto pilotando um carro real | 2026-09-25 |
