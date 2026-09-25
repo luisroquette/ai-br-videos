@@ -356,3 +356,4 @@ Quer o acesso de alguma? Comenta **"EU QUERO"** no post correspondente do Instag
 | [CRIADOR USA GPT-6 PARA FAZER FILME ONDE A AUDIENCIA ESCREVE A HISTORIA](tools/criador-usa-gpt-6-para-fazer-filme-onde-a-audiencia-escreve-a-historia.md) | Filme interativo criado por IA | 2026-09-25 |
 | [Metix AI Platform](tools/metix-ai-platform.md) | Agente que busca pessoas e vagas | 2026-09-25 |
 | [Project Suncatcher](tools/project-suncatcher.md) | Data centers orbitais movidos a sol | 2026-09-25 |
+| [Project Suncatcher](tools/project-suncatcher-20260925.md) | Data centers de IA em órbita | 2026-09-25 |
