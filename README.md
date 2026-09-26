@@ -361,3 +361,4 @@ Quer o acesso de alguma? Comenta **"EU QUERO"** no post correspondente do Instag
 | [O CARA QUE FINGIU TER UMA LAMBO COM IA AGORA FINGE TER UM JATO PRIVADO](tools/o-cara-que-fingiu-ter-uma-lambo-com-ia-agora-finge-ter-um-jato-privado.md) | IA gerando vídeos falsos realistas | 2026-09-25 |
 | [Agent Tincan](tools/agent-tincan.md) | Seus agentes de IA agora conversam entre si | 2026-09-26 |
 | [Claude Code](tools/claude-code-20260926.md) | Atualização do agente de código da Anthropic | 2026-09-26 |
+| [prompt-audit](tools/prompt-audit.md) | Comando que audita e reescreve prompts | 2026-09-26 |
