@@ -368,3 +368,4 @@ Quer o acesso de alguma? Comenta **"EU QUERO"** no post correspondente do Instag
 | [Claude Code Office Harness](tools/claude-code-office-harness.md) | Do prompt ao app com agentes autônomos | 2026-09-26 |
 | [claude-api prompt-audit](tools/claude-api-prompt-audit-20260926.md) | Auditoria de prompts no Claude Code | 2026-09-26 |
 | [NerfBench](tools/nerfbench.md) | BENCHMARK QUE MEDE QUEDA DE DESEMPENHO | 2026-09-26 |
+| [Claude Super Intelligence](tools/claude-super-intelligence.md) | IA superinteligente banida do governo | 2026-09-26 |
