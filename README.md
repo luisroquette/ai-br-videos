@@ -370,3 +370,4 @@ Quer o acesso de alguma? Comenta **"EU QUERO"** no post correspondente do Instag
 | [NerfBench](tools/nerfbench.md) | BENCHMARK QUE MEDE QUEDA DE DESEMPENHO | 2026-09-26 |
 | [Claude Super Intelligence](tools/claude-super-intelligence.md) | IA superinteligente banida do governo | 2026-09-26 |
 | [Claude](tools/claude-20260926.md) | A IA que o governo dos EUA nao confia | 2026-09-26 |
+| [Opus 5.5](tools/opus-5-5-20260926.md) | Guia oficial para cortar custo de API | 2026-09-26 |
