@@ -360,3 +360,4 @@ Quer o acesso de alguma? Comenta **"EU QUERO"** no post correspondente do Instag
 | [COLOCARAM CHATGPT, CLAUDE E GROK PARA DIRIGIR UM TOYOTA COROLLA DE VERDADE. SÓ 1 PASSOU NO TESTE](tools/colocaram-chatgpt-claude-e-grok-para-dirigir-um-toyota-corolla-de-verdade-so-1-passou-no-teste.md) | IAs de texto pilotando um carro real | 2026-09-25 |
 | [O CARA QUE FINGIU TER UMA LAMBO COM IA AGORA FINGE TER UM JATO PRIVADO](tools/o-cara-que-fingiu-ter-uma-lambo-com-ia-agora-finge-ter-um-jato-privado.md) | IA gerando vídeos falsos realistas | 2026-09-25 |
 | [Agent Tincan](tools/agent-tincan.md) | Seus agentes de IA agora conversam entre si | 2026-09-26 |
+| [Claude Code](tools/claude-code-20260926.md) | Atualização do agente de código da Anthropic | 2026-09-26 |
