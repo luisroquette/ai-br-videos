@@ -369,3 +369,4 @@ Quer o acesso de alguma? Comenta **"EU QUERO"** no post correspondente do Instag
 | [claude-api prompt-audit](tools/claude-api-prompt-audit-20260926.md) | Auditoria de prompts no Claude Code | 2026-09-26 |
 | [NerfBench](tools/nerfbench.md) | BENCHMARK QUE MEDE QUEDA DE DESEMPENHO | 2026-09-26 |
 | [Claude Super Intelligence](tools/claude-super-intelligence.md) | IA superinteligente banida do governo | 2026-09-26 |
+| [Claude](tools/claude-20260926.md) | A IA que o governo dos EUA nao confia | 2026-09-26 |
