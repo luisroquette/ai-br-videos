@@ -366,3 +366,4 @@ Quer o acesso de alguma? Comenta **"EU QUERO"** no post correspondente do Instag
 | [GPT 6 Astra](tools/gpt-6-astra-20260926.md) | IA QUE CRIA VIDEOS ESCREVENDO CODIGO | 2026-09-26 |
 | [Grok](tools/grok-20260926.md) | IA APRENDE COM FOGUETES E CARROS | 2026-09-26 |
 | [Claude Code Office Harness](tools/claude-code-office-harness.md) | Do prompt ao app com agentes autônomos | 2026-09-26 |
+| [claude-api prompt-audit](tools/claude-api-prompt-audit-20260926.md) | Auditoria de prompts no Claude Code | 2026-09-26 |
