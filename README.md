@@ -372,3 +372,4 @@ Quer o acesso de alguma? Comenta **"EU QUERO"** no post correspondente do Instag
 | [Claude](tools/claude-20260926.md) | A IA que o governo dos EUA nao confia | 2026-09-26 |
 | [Opus 5.5](tools/opus-5-5-20260926.md) | Guia oficial para cortar custo de API | 2026-09-26 |
 | [sonnet 5.5](tools/sonnet-5-5.md) | O novo modelo da rival do ChatGPT | 2026-09-26 |
+| [ChatGPT Pro](tools/chatgpt-pro.md) | A briga entre OpenAI e Anthropic | 2026-09-26 |
