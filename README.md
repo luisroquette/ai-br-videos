@@ -374,3 +374,4 @@ Quer o acesso de alguma? Comenta **"EU QUERO"** no post correspondente do Instag
 | [sonnet 5.5](tools/sonnet-5-5.md) | O novo modelo da rival do ChatGPT | 2026-09-26 |
 | [ChatGPT Pro](tools/chatgpt-pro.md) | A briga entre OpenAI e Anthropic | 2026-09-26 |
 | [opus 5.5](tools/opus-5-5-20260926.md) | IA GERANDO MUNDOS 3D EM TEMPO REAL | 2026-09-26 |
+| [SAM ALTMAN REVELA: A IA DA OPENAI JÁ FAZ O QUE OS MELHORES MATEMÁTICOS DO MUNDO NÃO CONSEGUEM](tools/sam-altman-revela-a-ia-da-openai-ja-faz-o-que-os-melhores-matematicos-do-mundo-nao-conseguem.md) | A evolução do raciocínio da IA | 2026-09-26 |
