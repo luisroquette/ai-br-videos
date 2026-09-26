@@ -364,3 +364,4 @@ Quer o acesso de alguma? Comenta **"EU QUERO"** no post correspondente do Instag
 | [prompt-audit](tools/prompt-audit.md) | Comando que audita e reescreve prompts | 2026-09-26 |
 | [GPT 6 Luna](tools/gpt-6-luna.md) | O modelo mais barato do mundo | 2026-09-26 |
 | [GPT 6 Astra](tools/gpt-6-astra-20260926.md) | IA QUE CRIA VIDEOS ESCREVENDO CODIGO | 2026-09-26 |
+| [Grok](tools/grok-20260926.md) | IA APRENDE COM FOGUETES E CARROS | 2026-09-26 |
